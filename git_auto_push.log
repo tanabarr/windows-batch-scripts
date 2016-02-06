@@ -547,3 +547,22 @@ updating local tracking ref 'refs/remotes/origin/master'
 /media/sf_win_scripts
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+[master 3be8962] auto update
+ 1 file changed, 474 insertions(+)
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/Windows-batch-scripts.git
+To git@github.com:whIzz2000/Windows-batch-scripts.git
+   9ef5ad6..3be8962  master -> master
+ * [new branch]      origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+~/scripts_link/iml-dev-scripts
+/home/tanabarr/scripts_link/./git_housekeeping.sh: line 18: cd: ~/scripts_link/iml-dev-scripts: No such file or directory
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
