@@ -1,0 +1,760 @@
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\6&2573C666&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\6&2573C666&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\6&2573C666&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\6&2573C666&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "Targus USB Audio";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "Targus USB Audio";
+	DeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	Manufacturer = "DisplayLink";
+	Name = "Targus USB Audio";
+	PNPDeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	PowerManagementSupported = FALSE;
+	ProductName = "Targus USB Audio";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "Targus USB Audio";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "Targus USB Audio";
+	DeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	Manufacturer = "DisplayLink";
+	Name = "Targus USB Audio";
+	PNPDeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	PowerManagementSupported = FALSE;
+	ProductName = "Targus USB Audio";
+	Status = "Unknown";
+	StatusInfo = 2;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "Targus USB Audio";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "Targus USB Audio";
+	DeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	Manufacturer = "DisplayLink";
+	Name = "Targus USB Audio";
+	PNPDeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	PowerManagementSupported = FALSE;
+	ProductName = "Targus USB Audio";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "Targus USB Audio";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "Targus USB Audio";
+	DeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	Manufacturer = "DisplayLink";
+	Name = "Targus USB Audio";
+	PNPDeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	PowerManagementSupported = FALSE;
+	ProductName = "Targus USB Audio";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "Targus USB Audio";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "Targus USB Audio";
+	DeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	Manufacturer = "DisplayLink";
+	Name = "Targus USB Audio";
+	PNPDeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	PowerManagementSupported = FALSE;
+	ProductName = "Targus USB Audio";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "Targus USB Audio";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "Targus USB Audio";
+	DeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	Manufacturer = "DisplayLink";
+	Name = "Targus USB Audio";
+	PNPDeviceID = "USB\\VID_17E9&PID_4306&MI_02\\7&12DE6DCF&0&0002";
+	PowerManagementSupported = FALSE;
+	ProductName = "Targus USB Audio";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\6&382D770B&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\6&382D770B&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "ITW8050620";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2256&REV_1001\\5&136CFD9B&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2256&REV_1001\\5&136CFD9B&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2256&REV_1001\\5&136CFD9B&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2256&REV_1001\\5&136CFD9B&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2256&REV_1001\\5&136CFD9B&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2256&REV_1001\\5&136CFD9B&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "High Definition Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "High Definition Audio Device";
+	DeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	Manufacturer = "Microsoft";
+	Name = "High Definition Audio Device";
+	PNPDeviceID = "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_103C2253&REV_1001\\5&DF582FA&0&0001";
+	PowerManagementSupported = FALSE;
+	ProductName = "High Definition Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+
+
+instance of Win32_SoundDevice
+{
+	Caption = "USB Audio Device";
+	ConfigManagerErrorCode = 0;
+	ConfigManagerUserConfig = FALSE;
+	CreationClassName = "Win32_SoundDevice";
+	Description = "USB Audio Device";
+	DeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	Manufacturer = "(Generic USB Audio)";
+	Name = "USB Audio Device";
+	PNPDeviceID = "USB\\VID_08A8&PID_0018&MI_00\\7&34985B56&0&0000";
+	PowerManagementSupported = FALSE;
+	ProductName = "USB Audio Device";
+	Status = "OK";
+	StatusInfo = 3;
+	SystemCreationClassName = "Win32_ComputerSystem";
+	SystemName = "TANABARR-MOBL1";
+};
+

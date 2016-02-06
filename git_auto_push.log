@@ -1,0 +1,75 @@
+Tue, Jan 20, 2015 7:51:23 PM
+
+/cygdrive/c/NatLink
+git add -u .
+git add .
+On branch master
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/nl-win8.git
+To git@github.com:whIzz2000/nl-win8.git
+ = [up to date]      origin/master -> origin/master
+   daa607e..4e764c4  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+Sat, Feb 6, 2016 2:50:37 PM
+
+/cygdrive/c/NatLink
+git add -u .
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git add .
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git commit -m auto update
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git push -v --mirror origin
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+/cygdrive/c/win scripts
+git add -u .
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git add .
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git commit -m auto update
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git push -v --mirror origin
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+Sat, Feb 6, 2016 2:57:22 PM
+
+/cygdrive/c/NatLink
+git remotes -v
+git: 'remotes' is not a git command. See 'git --help'.
+
+Did you mean this?
+	remote
+git add -u .
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git add .
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git commit -m auto update
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+git push -v --mirror origin
+fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+

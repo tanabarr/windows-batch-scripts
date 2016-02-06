@@ -1,0 +1,22 @@
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 28: date: command not found
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 32: mkdir: command not found
+backing up Linux files:
+tar -cf /cygdrive/u/software/transfer/cyg_usr_bak.tar  /home/tan/src/py/snippets /home/tan/src/c/snippets /home/tan/src/scripts /home/tan/.vim /home/tan/.vimrc
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 46: tar: command not found
+
+copying Windows scripts to /cygdrive/c/win scripts/transfer/_cyg_ws_files:
+.vim
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 60: cp: command not found
+src/py/projects/configspeech/file_urls.conf
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 60: cp: command not found
+src/py/projects/configspeech/configspeech.py
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 60: cp: command not found
+
+backing up /cygdrive/c/win scripts//vimfiles and replacing with /cygdrive/c/win scripts/transfer/_cyg_ws_files/.vim
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 70: tar: command not found
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 74: rm: command not found
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 77: mv: command not found
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 80: cp: command not found
+moving other Windows scripts to /cygdrive/c/win scripts/
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 85: mv: command not found
+/home/TAN/src/scripts/./sw_auto_backup.bash: line 88: rm: command not found

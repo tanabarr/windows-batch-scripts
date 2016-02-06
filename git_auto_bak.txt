@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Automatically push these locations to public git
+# repositories. 
+# This is the shell script executed by MinGw
+# This is triggered from batch script in winscripts 
+# directory and auto run on Windows start-up (registry 
+# setting). Repositories must be setup online and initialised. 
+# repository that he is subdirectory of another should be removed
+exec &> "/cygdrive/c/win scripts/git_auto_push.log"
+
+# Change the delimiter so we can deal with filenames including spaces
+SAVEIFS=$IFS
+IFS=$(echo -en "\n\b")
+
+dirs="/cygdrive/u/software/generic_software_notes
+/cygdrive/u/software/linux_software_notes
+/cygdrive/c/NatLink/NatLink/MacroSystem
+/cygdrive/u/software/Speech related/DNS-customisations
+/cygdrive/c/win scripts"
+
+for dir in $dirs; do
+    echo $dir
+    cd $dir
+    git add -u .
+    git add .
+    git branch -va
+    git commit -m "auto update"
+    git push origin master
+done
+IFS=$SAVEIFS

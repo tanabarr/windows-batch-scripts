@@ -1,0 +1,12 @@
+backing up Linux files:
+tar -cf /cygdrive/u/software/transfer/cyg_usr_bak.tar  /home/tan/src/py/snippets /home/tan/src/c/snippets /home/tan/src/scripts /home/tan/.vim /home/tan/.vimrc
+tar: Removing leading `/' from member names
+
+copying Windows scripts to /cygdrive/c/win scripts/transfer/140626_cyg_ws_files:
+.vim
+src/py/projects/configspeech/file_urls.conf
+src/py/projects/configspeech/configspeech.py
+
+backing up /cygdrive/c/win scripts//vimfiles and replacing with /cygdrive/c/win scripts/transfer/140626_cyg_ws_files/.vim
+tar: Removing leading `/' from member names
+moving other Windows scripts to /cygdrive/c/win scripts/
