@@ -1,680 +1,103 @@
-Tue, Jan 20, 2015 7:51:23 PM
 
-/cygdrive/c/NatLink
-git add -u .
-git add .
-On branch master
-nothing to commit, working directory clean
-git commit -m auto update
-On branch master
-nothing to commit, working directory clean
-git push -v --mirror origin
-Pushing to git@github.com:whIzz2000/nl-win8.git
-To git@github.com:whIzz2000/nl-win8.git
- = [up to date]      origin/master -> origin/master
-   daa607e..4e764c4  master -> master
-updating local tracking ref 'refs/remotes/origin/master'
+Tue May 10 16:00:01 BST 2016
 
-Sat, Feb 6, 2016 2:50:37 PM
-
-/cygdrive/c/NatLink
-git add -u .
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git add .
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git commit -m auto update
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git push -v --mirror origin
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-
-
-/cygdrive/c/win scripts
-git add -u .
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git add .
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git commit -m auto update
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git push -v --mirror origin
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-
-Sat, Feb 6, 2016 2:57:22 PM
-
-/cygdrive/c/NatLink
-git remotes -v
-git: 'remotes' is not a git command. See 'git --help'.
-
-Did you mean this?
-	remote
-git add -u .
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git add .
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git commit -m auto update
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-git push -v --mirror origin
-fatal: Not a git repository (or any parent up to mount point /cygdrive/c)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-
-Sat Feb 6 17:36:11 GMT 2016
-/media/sf_NatLink
-origin	git@github.com:whIzz2000/nl-win8.git (fetch)
-origin	git@github.com:whIzz2000/nl-win8.git (push)
-fatal: Unable to write new index file
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	modified:   .gitignore
-	modified:   NatLink/MacroSystem/ExtendedSendDragonKeys.py
-	modified:   NatLink/MacroSystem/ExtendedSendDragonKeys.pyc
-	modified:   NatLink/MacroSystem/SendInput.py
-	modified:   NatLink/MacroSystem/SendInput.pyc
-	modified:   NatLink/MacroSystem/_cmdmemory.py.txt
-	modified:   NatLink/MacroSystem/_dragonfly_tools.py
-	modified:   NatLink/MacroSystem/_dragonfly_tools.pyc
-	modified:   NatLink/MacroSystem/_dragonfly_tools.txt
-	modified:   NatLink/MacroSystem/_iPhoneVNC.py
-	modified:   NatLink/MacroSystem/_iPhoneVNC.pyc
-	modified:   NatLink/MacroSystem/_mouseKeyboardUtilities.py
-	modified:   NatLink/MacroSystem/_mouseKeyboardUtilities.pyc
-	modified:   NatLink/MacroSystem/_multiedit.py
-	modified:   NatLink/MacroSystem/_multiedit.pyc
-	modified:   NatLink/MacroSystem/_multiedit.txt
-	modified:   NatLink/MacroSystem/_pw_select.py
-	modified:   NatLink/MacroSystem/_pw_select.pyc
-	modified:   NatLink/MacroSystem/_repeatthat.py
-	modified:   NatLink/MacroSystem/_repeatthat.pyc
-	modified:   NatLink/MacroSystem/_switch_listener.py
-	modified:   NatLink/MacroSystem/_switch_listener.pyc
-	modified:   NatLink/MacroSystem/_vocola_main.pyc
-	modified:   NatLink/MacroSystem/_vocola_vcl.py
-	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
-	modified:   NatLink/MacroSystem/chrome_vcl.py
-	modified:   NatLink/MacroSystem/chrome_vcl.pyc
-	modified:   NatLink/MacroSystem/cmd_vcl.py
-	modified:   NatLink/MacroSystem/cmd_vcl.pyc
-	modified:   NatLink/MacroSystem/core/RegistryDict.pyc
-	modified:   NatLink/MacroSystem/core/VocolaUtils.pyc
-	modified:   NatLink/MacroSystem/core/error_info_grammar_general.txt
-	modified:   NatLink/MacroSystem/core/error_info_natlink_grammar.txt
-	modified:   NatLink/MacroSystem/core/gramparser.pyc
-	modified:   NatLink/MacroSystem/core/natlinkcorefunctions.pyc
-	modified:   NatLink/MacroSystem/core/natlinkmain.pyc
-	modified:   NatLink/MacroSystem/core/natlinkstatus.pyc
-	modified:   NatLink/MacroSystem/core/natlinkutils.pyc
-	modified:   NatLink/MacroSystem/core/nsformat.pyc
-	modified:   NatLink/MacroSystem/dragonfly-main.py
-	modified:   NatLink/MacroSystem/excel_vcl.py
-	modified:   NatLink/MacroSystem/explorer_vcl.py
-	modified:   NatLink/MacroSystem/explorer_vcl.pyc
-	modified:   NatLink/MacroSystem/firefox_vcl.py
-	modified:   NatLink/MacroSystem/firefox_vcl.pyc
-	modified:   NatLink/MacroSystem/foxitreader_vcl.py
-	modified:   NatLink/MacroSystem/gvim_vcl.py
-	modified:   NatLink/MacroSystem/gvim_vcl.pyc
-	modified:   NatLink/MacroSystem/ioutils.py
-	modified:   NatLink/MacroSystem/ioutils.pyc
-	modified:   NatLink/MacroSystem/itunes_vcl.py
-	modified:   NatLink/MacroSystem/mintty_vcl.py
-	modified:   NatLink/MacroSystem/mintty_vcl.pyc
-	modified:   NatLink/MacroSystem/msdev_vcl.py
-	modified:   NatLink/MacroSystem/natspeak_vcl.py
-	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
-	modified:   NatLink/MacroSystem/notepad_vcl.py
-	modified:   NatLink/MacroSystem/ntvdm_vcl.py
-	modified:   NatLink/MacroSystem/ois_vcl.py
-	modified:   NatLink/MacroSystem/outlook_vcl.py
-	modified:   NatLink/MacroSystem/powershell_vcl.py
-	modified:   NatLink/MacroSystem/putty_vcl.py
-	modified:   NatLink/MacroSystem/putty_vcl.pyc
-	modified:   NatLink/MacroSystem/pycharm_vcl.py
-	modified:   NatLink/MacroSystem/pycharm_vcl.pyc
-	modified:   NatLink/MacroSystem/sh_vcl.py
-	modified:   NatLink/MacroSystem/skype_vcl.py
-	modified:   NatLink/MacroSystem/skype_vcl.pyc
-	modified:   NatLink/MacroSystem/spotify_vcl.py
-	modified:   NatLink/MacroSystem/spotify_vcl.pyc
-	modified:   NatLink/MacroSystem/tvnviewer_vcl.py
-	modified:   NatLink/MacroSystem/virtualbox_vcl.py
-	modified:   NatLink/MacroSystem/vlc_vcl.py
-	modified:   NatLink/MacroSystem/vpxclient_vcl.py
-	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
-	modified:   NatLink/MacroSystem/win32pad_vcl.py
-	modified:   NatLink/MacroSystem/winscp_vcl.py
-	modified:   NatLink/MacroSystem/winword_vcl.py
-	modified:   NatLink/MacroSystem/wlmail_vcl.py
-	modified:   NatLink/MacroSystem/wordpad_vcl.py
-	modified:   NatLink/Vocola/exec/scan_extensions.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/__init__.py
-	modified:   NatLink/Vocola/exec/vcl2py/__init__.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/ast.py
-	modified:   NatLink/Vocola/exec/vcl2py/ast.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/emit.py
-	modified:   NatLink/Vocola/exec/vcl2py/emit.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/lex.py
-	modified:   NatLink/Vocola/exec/vcl2py/lex.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/log.py
-	modified:   NatLink/Vocola/exec/vcl2py/log.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/main.py
-	modified:   NatLink/Vocola/exec/vcl2py/main.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/parse.py
-	modified:   NatLink/Vocola/exec/vcl2py/parse.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/transform.py
-	modified:   NatLink/Vocola/exec/vcl2py/transform.pyc
-	modified:   NatLink/Vocola/extensions/_.swo
-	modified:   NatLink/Vocola/extensions/_.swp
-	modified:   NatLink/Vocola/extensions/extensions.csv
-	modified:   NatLink/Vocola/extensions/vocola_ext_clipboard.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_clipboard.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_date.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_date.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_environment.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_keys.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_keys.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_variables.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_variables.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_window_switching.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_window_switching.pyc
-	modified:   Unimacro/BrowseGrammar.pyc
-	modified:   Unimacro/COPYRIGHT.txt
-	modified:   Unimacro/D_.pyc
-	modified:   Unimacro/TrainDialog.py
-	modified:   Unimacro/_brackets.py
-	modified:   Unimacro/_brackets.pyc
-	modified:   Unimacro/_control.py
-	modified:   Unimacro/_control.pyc
-	modified:   Unimacro/_folders.py
-	modified:   Unimacro/_folders.pyc
-	modified:   Unimacro/_general.py
-	modified:   Unimacro/_general.pyc
-	modified:   Unimacro/_lines.pyc
-	modified:   Unimacro/_tasks.pyc
-	modified:   Unimacro/actionclasses/__init__.pyc
-	modified:   Unimacro/actionclasses/actionbases.pyc
-	modified:   Unimacro/actionclasses/pythonwin-actions.pyc
-	modified:   Unimacro/actionclasses/win32pad-actions.pyc
-	modified:   Unimacro/actions.ini
-	modified:   Unimacro/actions.py
-	modified:   Unimacro/actions.pyc
-	modified:   Unimacro/autohotkeyactions.pyc
-	modified:   Unimacro/chrome_browsing.pyc
-	modified:   Unimacro/ding.wav
-	modified:   Unimacro/enx_inifiles/_brackets.ini
-	modified:   Unimacro/enx_inifiles/_control.ini
-	modified:   Unimacro/enx_inifiles/_folders.ini
-	modified:   Unimacro/enx_inifiles/_general.ini
-	modified:   Unimacro/enx_inifiles/_lines.ini
-	modified:   Unimacro/enx_inifiles/_tasks.ini
-	modified:   Unimacro/enx_inifiles/chrome_browsing.ini
-	modified:   Unimacro/enx_inifiles/firefox_browsing.ini
-	modified:   Unimacro/enx_inifiles/natspeak_dialog.ini
-	modified:   Unimacro/enx_spokenforms.ini
-	modified:   Unimacro/firefox_browsing.pyc
-	modified:   Unimacro/grammar.bin
-	modified:   Unimacro/inivars.py
-	modified:   Unimacro/inivars.pyc
-	modified:   Unimacro/messagefunctions.py
-	modified:   Unimacro/messagefunctions.pyc
-	modified:   Unimacro/monitorfunctions.py
-	modified:   Unimacro/monitorfunctions.pyc
-	modified:   Unimacro/namelist.pyc
-	modified:   Unimacro/natlinkutilsbj.py
-	modified:   Unimacro/natlinkutilsbj.pyc
-	modified:   Unimacro/natlinkutilsqh.py
-	modified:   Unimacro/natlinkutilsqh.pyc
-	modified:   Unimacro/natspeak_dialog.pyc
-	modified:   Unimacro/scintillacon.pyc
-	modified:   Unimacro/spokenforms.py
-	modified:   Unimacro/spokenforms.pyc
-	modified:   Unimacro/testDialogForDictationGrammar.py
-	modified:   Unimacro/unimacro_tracing.py
-	modified:   Unimacro/unimacro_wxpythondialogs.py
-	modified:   Unimacro/utilsqh.py
-	modified:   Unimacro/utilsqh.pyc
-	modified:   Unimacro/windowinfo.py
-	modified:   Unimacro/windowparameters.py
-	modified:   Vocola/UNIX_shell.vch
-	modified:   Vocola/Unimacro.vch
-	modified:   Vocola/_vocola.vcl
-	modified:   Vocola/chrome.vcl
-	modified:   Vocola/cmd.vcl
-	modified:   Vocola/excel.vcl
-	modified:   Vocola/explorer.vcl
-	modified:   Vocola/files.vch
-	modified:   Vocola/firefox.vcl
-	modified:   Vocola/folders.vch
-	modified:   Vocola/foxitreader.vcl
-	modified:   Vocola/git.vch
-	modified:   Vocola/gvim.vcl
-	modified:   Vocola/itunes.vcl
-	modified:   Vocola/keys.vch
-	modified:   Vocola/machines.vch
-	modified:   Vocola/mintty.vcl
-	modified:   Vocola/msdev.vcl
-	modified:   Vocola/natspeak.vcl
-	modified:   Vocola/notepad.vcl
-	modified:   Vocola/ntvdm.vcl
-	modified:   Vocola/ois.vcl
-	modified:   Vocola/outlook.vcl
-	modified:   Vocola/package_management.vch
-	modified:   Vocola/pdb.vch
-	modified:   Vocola/powershell.vcl
-	modified:   Vocola/putty.vcl
-	modified:   Vocola/putty@tanabarr-mobl.vcl
-	modified:   Vocola/pycharm.vcl
-	modified:   Vocola/screen.vch
-	modified:   Vocola/sh.vcl
-	modified:   Vocola/skype.vcl
-	modified:   Vocola/spotify.vcl
-	modified:   Vocola/string.vch
-	modified:   Vocola/systemctl.vch
-	modified:   Vocola/tvnviewer.vcl
-	modified:   Vocola/utilities.vch
-	modified:   Vocola/vim.vch
-	modified:   Vocola/vim_plugins.vch
-	modified:   Vocola/virtualbox.vcl
-	modified:   Vocola/vlc.vcl
-	modified:   Vocola/vpxclient.vcl
-	modified:   Vocola/win32pad.vch
-	modified:   Vocola/win32pad.vcl
-	modified:   Vocola/win32pad_lines.vcl
-	modified:   Vocola/window_switching.vch
-	modified:   Vocola/winscp.vcl
-	modified:   Vocola/winword.vcl
-	modified:   Vocola/wlmail.vcl
-	modified:   Vocola/wordpad.vcl
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	NatLink/MacroSystem/notepad_vcl.pyc
-	NatLink/MacroSystem/virtualbox_vcl.pyc
-
-no changes added to commit (use "git add" and/or "git commit -a")
-On branch master
-Changes not staged for commit:
-	modified:   .gitignore
-	modified:   NatLink/MacroSystem/ExtendedSendDragonKeys.py
-	modified:   NatLink/MacroSystem/ExtendedSendDragonKeys.pyc
-	modified:   NatLink/MacroSystem/SendInput.py
-	modified:   NatLink/MacroSystem/SendInput.pyc
-	modified:   NatLink/MacroSystem/_cmdmemory.py.txt
-	modified:   NatLink/MacroSystem/_dragonfly_tools.py
-	modified:   NatLink/MacroSystem/_dragonfly_tools.pyc
-	modified:   NatLink/MacroSystem/_dragonfly_tools.txt
-	modified:   NatLink/MacroSystem/_iPhoneVNC.py
-	modified:   NatLink/MacroSystem/_iPhoneVNC.pyc
-	modified:   NatLink/MacroSystem/_mouseKeyboardUtilities.py
-	modified:   NatLink/MacroSystem/_mouseKeyboardUtilities.pyc
-	modified:   NatLink/MacroSystem/_multiedit.py
-	modified:   NatLink/MacroSystem/_multiedit.pyc
-	modified:   NatLink/MacroSystem/_multiedit.txt
-	modified:   NatLink/MacroSystem/_pw_select.py
-	modified:   NatLink/MacroSystem/_pw_select.pyc
-	modified:   NatLink/MacroSystem/_repeatthat.py
-	modified:   NatLink/MacroSystem/_repeatthat.pyc
-	modified:   NatLink/MacroSystem/_switch_listener.py
-	modified:   NatLink/MacroSystem/_switch_listener.pyc
-	modified:   NatLink/MacroSystem/_vocola_main.pyc
-	modified:   NatLink/MacroSystem/_vocola_vcl.py
-	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
-	modified:   NatLink/MacroSystem/chrome_vcl.py
-	modified:   NatLink/MacroSystem/chrome_vcl.pyc
-	modified:   NatLink/MacroSystem/cmd_vcl.py
-	modified:   NatLink/MacroSystem/cmd_vcl.pyc
-	modified:   NatLink/MacroSystem/core/RegistryDict.pyc
-	modified:   NatLink/MacroSystem/core/VocolaUtils.pyc
-	modified:   NatLink/MacroSystem/core/error_info_grammar_general.txt
-	modified:   NatLink/MacroSystem/core/error_info_natlink_grammar.txt
-	modified:   NatLink/MacroSystem/core/gramparser.pyc
-	modified:   NatLink/MacroSystem/core/natlinkcorefunctions.pyc
-	modified:   NatLink/MacroSystem/core/natlinkmain.pyc
-	modified:   NatLink/MacroSystem/core/natlinkstatus.pyc
-	modified:   NatLink/MacroSystem/core/natlinkutils.pyc
-	modified:   NatLink/MacroSystem/core/nsformat.pyc
-	modified:   NatLink/MacroSystem/dragonfly-main.py
-	modified:   NatLink/MacroSystem/excel_vcl.py
-	modified:   NatLink/MacroSystem/explorer_vcl.py
-	modified:   NatLink/MacroSystem/explorer_vcl.pyc
-	modified:   NatLink/MacroSystem/firefox_vcl.py
-	modified:   NatLink/MacroSystem/firefox_vcl.pyc
-	modified:   NatLink/MacroSystem/foxitreader_vcl.py
-	modified:   NatLink/MacroSystem/gvim_vcl.py
-	modified:   NatLink/MacroSystem/gvim_vcl.pyc
-	modified:   NatLink/MacroSystem/ioutils.py
-	modified:   NatLink/MacroSystem/ioutils.pyc
-	modified:   NatLink/MacroSystem/itunes_vcl.py
-	modified:   NatLink/MacroSystem/mintty_vcl.py
-	modified:   NatLink/MacroSystem/mintty_vcl.pyc
-	modified:   NatLink/MacroSystem/msdev_vcl.py
-	modified:   NatLink/MacroSystem/natspeak_vcl.py
-	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
-	modified:   NatLink/MacroSystem/notepad_vcl.py
-	modified:   NatLink/MacroSystem/ntvdm_vcl.py
-	modified:   NatLink/MacroSystem/ois_vcl.py
-	modified:   NatLink/MacroSystem/outlook_vcl.py
-	modified:   NatLink/MacroSystem/powershell_vcl.py
-	modified:   NatLink/MacroSystem/putty_vcl.py
-	modified:   NatLink/MacroSystem/putty_vcl.pyc
-	modified:   NatLink/MacroSystem/pycharm_vcl.py
-	modified:   NatLink/MacroSystem/pycharm_vcl.pyc
-	modified:   NatLink/MacroSystem/sh_vcl.py
-	modified:   NatLink/MacroSystem/skype_vcl.py
-	modified:   NatLink/MacroSystem/skype_vcl.pyc
-	modified:   NatLink/MacroSystem/spotify_vcl.py
-	modified:   NatLink/MacroSystem/spotify_vcl.pyc
-	modified:   NatLink/MacroSystem/tvnviewer_vcl.py
-	modified:   NatLink/MacroSystem/virtualbox_vcl.py
-	modified:   NatLink/MacroSystem/vlc_vcl.py
-	modified:   NatLink/MacroSystem/vpxclient_vcl.py
-	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
-	modified:   NatLink/MacroSystem/win32pad_vcl.py
-	modified:   NatLink/MacroSystem/winscp_vcl.py
-	modified:   NatLink/MacroSystem/winword_vcl.py
-	modified:   NatLink/MacroSystem/wlmail_vcl.py
-	modified:   NatLink/MacroSystem/wordpad_vcl.py
-	modified:   NatLink/Vocola/exec/scan_extensions.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/__init__.py
-	modified:   NatLink/Vocola/exec/vcl2py/__init__.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/ast.py
-	modified:   NatLink/Vocola/exec/vcl2py/ast.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/emit.py
-	modified:   NatLink/Vocola/exec/vcl2py/emit.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/lex.py
-	modified:   NatLink/Vocola/exec/vcl2py/lex.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/log.py
-	modified:   NatLink/Vocola/exec/vcl2py/log.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/main.py
-	modified:   NatLink/Vocola/exec/vcl2py/main.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/parse.py
-	modified:   NatLink/Vocola/exec/vcl2py/parse.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/transform.py
-	modified:   NatLink/Vocola/exec/vcl2py/transform.pyc
-	modified:   NatLink/Vocola/extensions/_.swo
-	modified:   NatLink/Vocola/extensions/_.swp
-	modified:   NatLink/Vocola/extensions/extensions.csv
-	modified:   NatLink/Vocola/extensions/vocola_ext_clipboard.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_clipboard.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_date.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_date.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_environment.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_keys.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_keys.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_variables.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_variables.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_window_switching.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_window_switching.pyc
-	modified:   Unimacro/BrowseGrammar.pyc
-	modified:   Unimacro/COPYRIGHT.txt
-	modified:   Unimacro/D_.pyc
-	modified:   Unimacro/TrainDialog.py
-	modified:   Unimacro/_brackets.py
-	modified:   Unimacro/_brackets.pyc
-	modified:   Unimacro/_control.py
-	modified:   Unimacro/_control.pyc
-	modified:   Unimacro/_folders.py
-	modified:   Unimacro/_folders.pyc
-	modified:   Unimacro/_general.py
-	modified:   Unimacro/_general.pyc
-	modified:   Unimacro/_lines.pyc
-	modified:   Unimacro/_tasks.pyc
-	modified:   Unimacro/actionclasses/__init__.pyc
-	modified:   Unimacro/actionclasses/actionbases.pyc
-	modified:   Unimacro/actionclasses/pythonwin-actions.pyc
-	modified:   Unimacro/actionclasses/win32pad-actions.pyc
-	modified:   Unimacro/actions.ini
-	modified:   Unimacro/actions.py
-	modified:   Unimacro/actions.pyc
-	modified:   Unimacro/autohotkeyactions.pyc
-	modified:   Unimacro/chrome_browsing.pyc
-	modified:   Unimacro/ding.wav
-	modified:   Unimacro/enx_inifiles/_brackets.ini
-	modified:   Unimacro/enx_inifiles/_control.ini
-	modified:   Unimacro/enx_inifiles/_folders.ini
-	modified:   Unimacro/enx_inifiles/_general.ini
-	modified:   Unimacro/enx_inifiles/_lines.ini
-	modified:   Unimacro/enx_inifiles/_tasks.ini
-	modified:   Unimacro/enx_inifiles/chrome_browsing.ini
-	modified:   Unimacro/enx_inifiles/firefox_browsing.ini
-	modified:   Unimacro/enx_inifiles/natspeak_dialog.ini
-	modified:   Unimacro/enx_spokenforms.ini
-	modified:   Unimacro/firefox_browsing.pyc
-	modified:   Unimacro/grammar.bin
-	modified:   Unimacro/inivars.py
-	modified:   Unimacro/inivars.pyc
-	modified:   Unimacro/messagefunctions.py
-	modified:   Unimacro/messagefunctions.pyc
-	modified:   Unimacro/monitorfunctions.py
-	modified:   Unimacro/monitorfunctions.pyc
-	modified:   Unimacro/namelist.pyc
-	modified:   Unimacro/natlinkutilsbj.py
-	modified:   Unimacro/natlinkutilsbj.pyc
-	modified:   Unimacro/natlinkutilsqh.py
-	modified:   Unimacro/natlinkutilsqh.pyc
-	modified:   Unimacro/natspeak_dialog.pyc
-	modified:   Unimacro/scintillacon.pyc
-	modified:   Unimacro/spokenforms.py
-	modified:   Unimacro/spokenforms.pyc
-	modified:   Unimacro/testDialogForDictationGrammar.py
-	modified:   Unimacro/unimacro_tracing.py
-	modified:   Unimacro/unimacro_wxpythondialogs.py
-	modified:   Unimacro/utilsqh.py
-	modified:   Unimacro/utilsqh.pyc
-	modified:   Unimacro/windowinfo.py
-	modified:   Unimacro/windowparameters.py
-	modified:   Vocola/UNIX_shell.vch
-	modified:   Vocola/Unimacro.vch
-	modified:   Vocola/_vocola.vcl
-	modified:   Vocola/chrome.vcl
-	modified:   Vocola/cmd.vcl
-	modified:   Vocola/excel.vcl
-	modified:   Vocola/explorer.vcl
-	modified:   Vocola/files.vch
-	modified:   Vocola/firefox.vcl
-	modified:   Vocola/folders.vch
-	modified:   Vocola/foxitreader.vcl
-	modified:   Vocola/git.vch
-	modified:   Vocola/gvim.vcl
-	modified:   Vocola/itunes.vcl
-	modified:   Vocola/keys.vch
-	modified:   Vocola/machines.vch
-	modified:   Vocola/mintty.vcl
-	modified:   Vocola/msdev.vcl
-	modified:   Vocola/natspeak.vcl
-	modified:   Vocola/notepad.vcl
-	modified:   Vocola/ntvdm.vcl
-	modified:   Vocola/ois.vcl
-	modified:   Vocola/outlook.vcl
-	modified:   Vocola/package_management.vch
-	modified:   Vocola/pdb.vch
-	modified:   Vocola/powershell.vcl
-	modified:   Vocola/putty.vcl
-	modified:   Vocola/putty@tanabarr-mobl.vcl
-	modified:   Vocola/pycharm.vcl
-	modified:   Vocola/screen.vch
-	modified:   Vocola/sh.vcl
-	modified:   Vocola/skype.vcl
-	modified:   Vocola/spotify.vcl
-	modified:   Vocola/string.vch
-	modified:   Vocola/systemctl.vch
-	modified:   Vocola/tvnviewer.vcl
-	modified:   Vocola/utilities.vch
-	modified:   Vocola/vim.vch
-	modified:   Vocola/vim_plugins.vch
-	modified:   Vocola/virtualbox.vcl
-	modified:   Vocola/vlc.vcl
-	modified:   Vocola/vpxclient.vcl
-	modified:   Vocola/win32pad.vch
-	modified:   Vocola/win32pad.vcl
-	modified:   Vocola/win32pad_lines.vcl
-	modified:   Vocola/window_switching.vch
-	modified:   Vocola/winscp.vcl
-	modified:   Vocola/winword.vcl
-	modified:   Vocola/wlmail.vcl
-	modified:   Vocola/wordpad.vcl
-
-Untracked files:
-	NatLink/MacroSystem/notepad_vcl.pyc
-	NatLink/MacroSystem/virtualbox_vcl.pyc
-
-no changes added to commit
-git push -v --mirror origin
-Pushing to git@github.com:whIzz2000/nl-win8.git
-To git@github.com:whIzz2000/nl-win8.git
- = [up to date]      master -> master
- * [new branch]      origin/master -> origin/master
-updating local tracking ref 'refs/remotes/origin/master'
-
-/media/sf_win_scripts
-origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
-origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
-On branch master
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	modified:   git_auto_push.log
-
-[master 3be8962] auto update
- 1 file changed, 474 insertions(+)
-git push -v --mirror origin
-Pushing to git@github.com:whIzz2000/Windows-batch-scripts.git
-To git@github.com:whIzz2000/Windows-batch-scripts.git
-   9ef5ad6..3be8962  master -> master
- * [new branch]      origin/master -> origin/master
-updating local tracking ref 'refs/remotes/origin/master'
-
-~/scripts_link/iml-dev-scripts
-/home/tanabarr/scripts_link/./git_housekeeping.sh: line 18: cd: ~/scripts_link/iml-dev-scripts: No such file or directory
-origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
-origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
-On branch master
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	modified:   git_auto_push.log
-
-[master f777452] auto update
- 1 file changed, 19 insertions(+)
-git push -v --mirror origin
-Pushing to git@github.com:whIzz2000/Windows-batch-scripts.git
-To git@github.com:whIzz2000/Windows-batch-scripts.git
-   3be8962..f777452  master -> master
-   9ef5ad6..3be8962  origin/master -> origin/master
-updating local tracking ref 'refs/remotes/origin/master'
-
-Sun Feb 7 16:00:01 GMT 2016
-/media/sf_NatLink
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 19: git: command not found
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 20: git: command not found
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 21: git: command not found
+cd /media/sf_NatLink
 /home/tanabarr/scripts_link/git_housekeeping.sh: line 22: git: command not found
-git push -v --mirror origin
+git add .
 /home/tanabarr/scripts_link/git_housekeeping.sh: line 24: git: command not found
+git status
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 26: git: command not found
+git commit -m auto update
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 28: git: command not found
+git push -v --mirror origin
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 30: git: command not found
 
-/media/sf_win_scripts
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 19: git: command not found
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 20: git: command not found
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 21: git: command not found
+cd /media/sf_win_scripts
 /home/tanabarr/scripts_link/git_housekeeping.sh: line 22: git: command not found
-git push -v --mirror origin
+git add .
 /home/tanabarr/scripts_link/git_housekeeping.sh: line 24: git: command not found
+git status
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 26: git: command not found
+git commit -m auto update
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 28: git: command not found
+git push -v --mirror origin
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 30: git: command not found
 
-~/scripts_link/iml-dev-scripts
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 18: cd: ~/scripts_link/iml-dev-scripts: No such file or directory
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 19: git: command not found
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 20: git: command not found
-/home/tanabarr/scripts_link/git_housekeeping.sh: line 21: git: command not found
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
 /home/tanabarr/scripts_link/git_housekeeping.sh: line 22: git: command not found
-git push -v --mirror origin
+git add .
 /home/tanabarr/scripts_link/git_housekeeping.sh: line 24: git: command not found
+git status
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 26: git: command not found
+git commit -m auto update
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 28: git: command not found
+git push -v --mirror origin
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 30: git: command not found
 
 
+Tue May 10 20:00:01 BST 2016
 
-Sun Feb 7 16:08:45 GMT 2016
+cd /media/sf_NatLink
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 22: git: command not found
+git add .
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 24: git: command not found
+git status
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 26: git: command not found
+git commit -m auto update
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 28: git: command not found
+git push -v --mirror origin
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 30: git: command not found
+
+cd /media/sf_win_scripts
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 22: git: command not found
+git add .
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 24: git: command not found
+git status
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 26: git: command not found
+git commit -m auto update
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 28: git: command not found
+git push -v --mirror origin
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 30: git: command not found
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 22: git: command not found
+git add .
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 24: git: command not found
+git status
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 26: git: command not found
+git commit -m auto update
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 28: git: command not found
+git push -v --mirror origin
+/home/tanabarr/scripts_link/git_housekeeping.sh: line 30: git: command not found
+
+
+Tue May 10 22:43:36 BST 2016
 
 cd /media/sf_NatLink
 origin	git@github.com:whIzz2000/nl-win8.git (fetch)
 origin	git@github.com:whIzz2000/nl-win8.git (push)
 git add .
+fatal: Unable to write new index file
 git status
 On branch master
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
 
-	modified:   .gitignore
-	modified:   NatLink/MacroSystem/ExtendedSendDragonKeys.py
-	modified:   NatLink/MacroSystem/ExtendedSendDragonKeys.pyc
-	modified:   NatLink/MacroSystem/SendInput.py
-	modified:   NatLink/MacroSystem/SendInput.pyc
-	modified:   NatLink/MacroSystem/_cmdmemory.py.txt
-	modified:   NatLink/MacroSystem/_dragonfly_tools.py
-	modified:   NatLink/MacroSystem/_dragonfly_tools.pyc
-	modified:   NatLink/MacroSystem/_dragonfly_tools.txt
-	modified:   NatLink/MacroSystem/_iPhoneVNC.py
-	modified:   NatLink/MacroSystem/_iPhoneVNC.pyc
-	modified:   NatLink/MacroSystem/_mouseKeyboardUtilities.py
-	modified:   NatLink/MacroSystem/_mouseKeyboardUtilities.pyc
-	modified:   NatLink/MacroSystem/_multiedit.py
-	modified:   NatLink/MacroSystem/_multiedit.pyc
-	modified:   NatLink/MacroSystem/_multiedit.txt
-	modified:   NatLink/MacroSystem/_pw_select.py
-	modified:   NatLink/MacroSystem/_pw_select.pyc
-	modified:   NatLink/MacroSystem/_repeatthat.py
-	modified:   NatLink/MacroSystem/_repeatthat.pyc
-	modified:   NatLink/MacroSystem/_switch_listener.py
-	modified:   NatLink/MacroSystem/_switch_listener.pyc
-	modified:   NatLink/MacroSystem/_vocola_main.pyc
 	modified:   NatLink/MacroSystem/_vocola_vcl.py
 	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
 	modified:   NatLink/MacroSystem/chrome_vcl.py
 	modified:   NatLink/MacroSystem/chrome_vcl.pyc
 	modified:   NatLink/MacroSystem/cmd_vcl.py
-	deleted:    NatLink/MacroSystem/cmd_vcl.pyc
-	modified:   NatLink/MacroSystem/core/RegistryDict.pyc
-	modified:   NatLink/MacroSystem/core/VocolaUtils.pyc
-	modified:   NatLink/MacroSystem/core/error_info_grammar_general.txt
 	modified:   NatLink/MacroSystem/core/error_info_natlink_grammar.txt
-	modified:   NatLink/MacroSystem/core/gramparser.pyc
-	modified:   NatLink/MacroSystem/core/natlinkcorefunctions.pyc
-	modified:   NatLink/MacroSystem/core/natlinkmain.pyc
-	modified:   NatLink/MacroSystem/core/natlinkstatus.pyc
-	modified:   NatLink/MacroSystem/core/natlinkutils.pyc
-	modified:   NatLink/MacroSystem/core/nsformat.pyc
-	modified:   NatLink/MacroSystem/dragonfly-main.py
 	modified:   NatLink/MacroSystem/excel_vcl.py
 	modified:   NatLink/MacroSystem/explorer_vcl.py
-	deleted:    NatLink/MacroSystem/explorer_vcl.pyc
 	modified:   NatLink/MacroSystem/firefox_vcl.py
-	deleted:    NatLink/MacroSystem/firefox_vcl.pyc
 	modified:   NatLink/MacroSystem/foxitreader_vcl.py
 	modified:   NatLink/MacroSystem/gvim_vcl.py
-	deleted:    NatLink/MacroSystem/gvim_vcl.pyc
-	modified:   NatLink/MacroSystem/ioutils.py
-	modified:   NatLink/MacroSystem/ioutils.pyc
 	modified:   NatLink/MacroSystem/itunes_vcl.py
 	modified:   NatLink/MacroSystem/mintty_vcl.py
-	deleted:    NatLink/MacroSystem/mintty_vcl.pyc
 	modified:   NatLink/MacroSystem/msdev_vcl.py
-	modified:   NatLink/MacroSystem/natspeak_vcl.py
 	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
 	modified:   NatLink/MacroSystem/notepad_vcl.py
 	modified:   NatLink/MacroSystem/ntvdm_vcl.py
@@ -684,14 +107,11 @@ Changes to be committed:
 	modified:   NatLink/MacroSystem/putty_vcl.py
 	modified:   NatLink/MacroSystem/putty_vcl.pyc
 	modified:   NatLink/MacroSystem/pycharm_vcl.py
-	deleted:    NatLink/MacroSystem/pycharm_vcl.pyc
 	modified:   NatLink/MacroSystem/sh_vcl.py
 	modified:   NatLink/MacroSystem/skype_vcl.py
 	modified:   NatLink/MacroSystem/skype_vcl.pyc
 	modified:   NatLink/MacroSystem/spotify_vcl.py
-	deleted:    NatLink/MacroSystem/spotify_vcl.pyc
-	modified:   NatLink/MacroSystem/tvnviewer_vcl.py
-	new file:   NatLink/MacroSystem/tvnviewer_vcl.pyc
+	deleted:    NatLink/MacroSystem/tvnviewer_vcl.pyc
 	modified:   NatLink/MacroSystem/virtualbox_vcl.py
 	modified:   NatLink/MacroSystem/vlc_vcl.py
 	modified:   NatLink/MacroSystem/vpxclient_vcl.py
@@ -701,369 +121,112 @@ Changes to be committed:
 	modified:   NatLink/MacroSystem/winword_vcl.py
 	modified:   NatLink/MacroSystem/wlmail_vcl.py
 	modified:   NatLink/MacroSystem/wordpad_vcl.py
-	modified:   NatLink/Vocola/exec/scan_extensions.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/__init__.py
-	modified:   NatLink/Vocola/exec/vcl2py/__init__.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/ast.py
-	modified:   NatLink/Vocola/exec/vcl2py/ast.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/emit.py
-	modified:   NatLink/Vocola/exec/vcl2py/emit.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/lex.py
-	modified:   NatLink/Vocola/exec/vcl2py/lex.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/log.py
-	modified:   NatLink/Vocola/exec/vcl2py/log.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/main.py
-	modified:   NatLink/Vocola/exec/vcl2py/main.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/parse.py
-	modified:   NatLink/Vocola/exec/vcl2py/parse.pyc
-	modified:   NatLink/Vocola/exec/vcl2py/transform.py
-	modified:   NatLink/Vocola/exec/vcl2py/transform.pyc
-	modified:   NatLink/Vocola/extensions/_.swo
-	modified:   NatLink/Vocola/extensions/_.swp
-	modified:   NatLink/Vocola/extensions/extensions.csv
-	modified:   NatLink/Vocola/extensions/vocola_ext_clipboard.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_clipboard.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_date.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_date.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_environment.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_keys.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_keys.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_variables.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_variables.pyc
-	modified:   NatLink/Vocola/extensions/vocola_ext_window_switching.py
-	modified:   NatLink/Vocola/extensions/vocola_ext_window_switching.pyc
-	modified:   Unimacro/BrowseGrammar.pyc
-	modified:   Unimacro/COPYRIGHT.txt
-	modified:   Unimacro/D_.pyc
-	modified:   Unimacro/TrainDialog.py
-	modified:   Unimacro/_brackets.py
-	modified:   Unimacro/_brackets.pyc
-	modified:   Unimacro/_control.py
-	modified:   Unimacro/_control.pyc
-	modified:   Unimacro/_folders.py
-	modified:   Unimacro/_folders.pyc
-	modified:   Unimacro/_general.py
-	modified:   Unimacro/_general.pyc
-	modified:   Unimacro/_lines.pyc
-	modified:   Unimacro/_tasks.pyc
-	modified:   Unimacro/actionclasses/__init__.pyc
-	modified:   Unimacro/actionclasses/actionbases.pyc
-	modified:   Unimacro/actionclasses/pythonwin-actions.pyc
-	modified:   Unimacro/actionclasses/win32pad-actions.pyc
-	modified:   Unimacro/actions.ini
-	modified:   Unimacro/actions.py
-	modified:   Unimacro/actions.pyc
-	modified:   Unimacro/autohotkeyactions.pyc
-	modified:   Unimacro/chrome_browsing.pyc
-	modified:   Unimacro/ding.wav
-	modified:   Unimacro/enx_inifiles/_brackets.ini
-	modified:   Unimacro/enx_inifiles/_control.ini
 	modified:   Unimacro/enx_inifiles/_folders.ini
-	modified:   Unimacro/enx_inifiles/_general.ini
-	modified:   Unimacro/enx_inifiles/_lines.ini
-	modified:   Unimacro/enx_inifiles/_tasks.ini
-	modified:   Unimacro/enx_inifiles/chrome_browsing.ini
-	modified:   Unimacro/enx_inifiles/firefox_browsing.ini
-	modified:   Unimacro/enx_inifiles/natspeak_dialog.ini
-	modified:   Unimacro/enx_spokenforms.ini
-	modified:   Unimacro/firefox_browsing.pyc
 	modified:   Unimacro/grammar.bin
-	modified:   Unimacro/inivars.py
-	modified:   Unimacro/inivars.pyc
-	modified:   Unimacro/messagefunctions.py
-	modified:   Unimacro/messagefunctions.pyc
-	modified:   Unimacro/monitorfunctions.py
-	modified:   Unimacro/monitorfunctions.pyc
-	modified:   Unimacro/namelist.pyc
-	modified:   Unimacro/natlinkutilsbj.py
-	modified:   Unimacro/natlinkutilsbj.pyc
-	modified:   Unimacro/natlinkutilsqh.py
-	modified:   Unimacro/natlinkutilsqh.pyc
-	modified:   Unimacro/natspeak_dialog.pyc
-	modified:   Unimacro/scintillacon.pyc
-	modified:   Unimacro/spokenforms.py
-	modified:   Unimacro/spokenforms.pyc
-	modified:   Unimacro/testDialogForDictationGrammar.py
-	modified:   Unimacro/unimacro_tracing.py
-	modified:   Unimacro/unimacro_wxpythondialogs.py
-	modified:   Unimacro/utilsqh.py
-	modified:   Unimacro/utilsqh.pyc
-	modified:   Unimacro/windowinfo.py
-	modified:   Unimacro/windowparameters.py
 	modified:   Vocola/UNIX_shell.vch
-	modified:   Vocola/Unimacro.vch
 	modified:   Vocola/_vocola.vcl
 	modified:   Vocola/chrome.vcl
-	modified:   Vocola/cmd.vcl
-	modified:   Vocola/excel.vcl
-	modified:   Vocola/explorer.vcl
-	modified:   Vocola/files.vch
-	modified:   Vocola/firefox.vcl
-	modified:   Vocola/folders.vch
-	modified:   Vocola/foxitreader.vcl
 	modified:   Vocola/git.vch
-	modified:   Vocola/gvim.vcl
-	modified:   Vocola/itunes.vcl
-	modified:   Vocola/keys.vch
-	modified:   Vocola/machines.vch
-	modified:   Vocola/mintty.vcl
-	modified:   Vocola/msdev.vcl
-	modified:   Vocola/natspeak.vcl
-	modified:   Vocola/notepad.vcl
-	modified:   Vocola/ntvdm.vcl
-	modified:   Vocola/ois.vcl
+	deleted:    Vocola/machines.vch
 	modified:   Vocola/outlook.vcl
-	modified:   Vocola/package_management.vch
 	modified:   Vocola/pdb.vch
-	modified:   Vocola/powershell.vcl
-	modified:   Vocola/putty.vcl
-	modified:   Vocola/putty@tanabarr-mobl.vcl
 	modified:   Vocola/pycharm.vcl
-	modified:   Vocola/screen.vch
-	modified:   Vocola/sh.vcl
-	modified:   Vocola/skype.vcl
-	modified:   Vocola/spotify.vcl
-	modified:   Vocola/string.vch
-	modified:   Vocola/systemctl.vch
-	modified:   Vocola/tvnviewer.vcl
-	modified:   Vocola/utilities.vch
 	modified:   Vocola/vim.vch
-	modified:   Vocola/vim_plugins.vch
-	modified:   Vocola/virtualbox.vcl
-	modified:   Vocola/vlc.vcl
-	modified:   Vocola/vpxclient.vcl
-	modified:   Vocola/win32pad.vch
-	modified:   Vocola/win32pad.vcl
-	modified:   Vocola/win32pad_lines.vcl
 	modified:   Vocola/window_switching.vch
-	modified:   Vocola/winscp.vcl
-	modified:   Vocola/winword.vcl
-	modified:   Vocola/wlmail.vcl
-	modified:   Vocola/wordpad.vcl
 
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	NatLink/MacroSystem/cmd_vcl.pyc
+	NatLink/MacroSystem/explorer_vcl.pyc
+	NatLink/MacroSystem/gvim_vcl.pyc
+	NatLink/MacroSystem/outlook_vcl.pyc
+	NatLink/MacroSystem/pycharm_vcl.pyc
+	NatLink/MacroSystem/spotify_vcl.pyc
+	NatLink/MacroSystem/win32pad_lines_vcl.pyc
+	NatLink/MacroSystem/win32pad_vcl.pyc
+	NatLink/Vocola/extensions/_.swk
+	NatLink/Vocola/extensions/_.swl
+	NatLink/Vocola/extensions/_.swm
+	NatLink/Vocola/extensions/_.swn
+	Unimacro/enx_inifiles/._brackets.ini.swp
+	Vocola/.UNIX_shell.vch.swp
+	Vocola/.chrome.vcl.swp
+	Vocola/service_control.vch
+
+no changes added to commit (use "git add" and/or "git commit -a")
 git commit -m auto update
-[master c89ebaf] auto update
- 220 files changed, 571 insertions(+), 550 deletions(-)
- mode change 100644 => 100755 .gitignore
- mode change 100644 => 100755 NatLink/MacroSystem/ExtendedSendDragonKeys.py
- mode change 100644 => 100755 NatLink/MacroSystem/ExtendedSendDragonKeys.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/SendInput.py
- mode change 100644 => 100755 NatLink/MacroSystem/SendInput.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_cmdmemory.py.txt
- mode change 100644 => 100755 NatLink/MacroSystem/_dragonfly_tools.py
- mode change 100644 => 100755 NatLink/MacroSystem/_dragonfly_tools.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_dragonfly_tools.txt
- mode change 100644 => 100755 NatLink/MacroSystem/_iPhoneVNC.py
- mode change 100644 => 100755 NatLink/MacroSystem/_iPhoneVNC.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_mouseKeyboardUtilities.py
- mode change 100644 => 100755 NatLink/MacroSystem/_mouseKeyboardUtilities.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_multiedit.py
- mode change 100644 => 100755 NatLink/MacroSystem/_multiedit.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_multiedit.txt
- mode change 100644 => 100755 NatLink/MacroSystem/_pw_select.py
- mode change 100644 => 100755 NatLink/MacroSystem/_pw_select.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_repeatthat.py
- mode change 100644 => 100755 NatLink/MacroSystem/_repeatthat.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_switch_listener.py
- mode change 100644 => 100755 NatLink/MacroSystem/_switch_listener.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_vocola_main.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/_vocola_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/_vocola_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/chrome_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/chrome_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/cmd_vcl.py
- delete mode 100644 NatLink/MacroSystem/cmd_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/core/RegistryDict.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/core/VocolaUtils.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/core/error_info_grammar_general.txt
- mode change 100644 => 100755 NatLink/MacroSystem/core/error_info_natlink_grammar.txt
- mode change 100644 => 100755 NatLink/MacroSystem/core/gramparser.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/core/natlinkcorefunctions.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/core/natlinkmain.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/core/natlinkstatus.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/core/natlinkutils.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/core/nsformat.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/dragonfly-main.py
- mode change 100644 => 100755 NatLink/MacroSystem/excel_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/explorer_vcl.py
- delete mode 100644 NatLink/MacroSystem/explorer_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/firefox_vcl.py
- delete mode 100644 NatLink/MacroSystem/firefox_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/foxitreader_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/gvim_vcl.py
- delete mode 100644 NatLink/MacroSystem/gvim_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/ioutils.py
- mode change 100644 => 100755 NatLink/MacroSystem/ioutils.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/itunes_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/mintty_vcl.py
- delete mode 100644 NatLink/MacroSystem/mintty_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/msdev_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/natspeak_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/natspeak_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/notepad_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/ntvdm_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/ois_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/outlook_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/powershell_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/putty_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/putty_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/pycharm_vcl.py
- delete mode 100644 NatLink/MacroSystem/pycharm_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/sh_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/skype_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/skype_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/spotify_vcl.py
- delete mode 100644 NatLink/MacroSystem/spotify_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/tvnviewer_vcl.py
- create mode 100755 NatLink/MacroSystem/tvnviewer_vcl.pyc
- mode change 100644 => 100755 NatLink/MacroSystem/virtualbox_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/vlc_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/vpxclient_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/win32pad_lines_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/win32pad_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/winscp_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/winword_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/wlmail_vcl.py
- mode change 100644 => 100755 NatLink/MacroSystem/wordpad_vcl.py
- mode change 100644 => 100755 NatLink/Vocola/exec/scan_extensions.pyc
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/__init__.py
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/__init__.pyc
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/ast.py
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/ast.pyc
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/emit.py
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/emit.pyc
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/lex.py
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/lex.pyc
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/log.py
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/log.pyc
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/main.py
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/main.pyc
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/parse.py
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/parse.pyc
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/transform.py
- mode change 100644 => 100755 NatLink/Vocola/exec/vcl2py/transform.pyc
- mode change 100644 => 100755 NatLink/Vocola/extensions/_.swo
- mode change 100644 => 100755 NatLink/Vocola/extensions/_.swp
- mode change 100644 => 100755 NatLink/Vocola/extensions/extensions.csv
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_clipboard.py
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_clipboard.pyc
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_date.py
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_date.pyc
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_environment.py
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_keys.py
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_keys.pyc
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_variables.py
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_variables.pyc
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_window_switching.py
- mode change 100644 => 100755 NatLink/Vocola/extensions/vocola_ext_window_switching.pyc
- mode change 100644 => 100755 Unimacro/BrowseGrammar.pyc
- mode change 100644 => 100755 Unimacro/COPYRIGHT.txt
- mode change 100644 => 100755 Unimacro/D_.pyc
- mode change 100644 => 100755 Unimacro/TrainDialog.py
- mode change 100644 => 100755 Unimacro/_brackets.py
- mode change 100644 => 100755 Unimacro/_brackets.pyc
- mode change 100644 => 100755 Unimacro/_control.py
- mode change 100644 => 100755 Unimacro/_control.pyc
- mode change 100644 => 100755 Unimacro/_folders.py
- mode change 100644 => 100755 Unimacro/_folders.pyc
- mode change 100644 => 100755 Unimacro/_general.py
- mode change 100644 => 100755 Unimacro/_general.pyc
- mode change 100644 => 100755 Unimacro/_lines.pyc
- mode change 100644 => 100755 Unimacro/_tasks.pyc
- mode change 100644 => 100755 Unimacro/actionclasses/__init__.pyc
- mode change 100644 => 100755 Unimacro/actionclasses/actionbases.pyc
- mode change 100644 => 100755 Unimacro/actionclasses/pythonwin-actions.pyc
- mode change 100644 => 100755 Unimacro/actionclasses/win32pad-actions.pyc
- mode change 100644 => 100755 Unimacro/actions.ini
- mode change 100644 => 100755 Unimacro/actions.py
- mode change 100644 => 100755 Unimacro/actions.pyc
- mode change 100644 => 100755 Unimacro/autohotkeyactions.pyc
- mode change 100644 => 100755 Unimacro/chrome_browsing.pyc
- mode change 100644 => 100755 Unimacro/ding.wav
- mode change 100644 => 100755 Unimacro/enx_inifiles/_brackets.ini
- mode change 100644 => 100755 Unimacro/enx_inifiles/_control.ini
- mode change 100644 => 100755 Unimacro/enx_inifiles/_folders.ini
- mode change 100644 => 100755 Unimacro/enx_inifiles/_general.ini
- mode change 100644 => 100755 Unimacro/enx_inifiles/_lines.ini
- mode change 100644 => 100755 Unimacro/enx_inifiles/_tasks.ini
- mode change 100644 => 100755 Unimacro/enx_inifiles/chrome_browsing.ini
- mode change 100644 => 100755 Unimacro/enx_inifiles/firefox_browsing.ini
- mode change 100644 => 100755 Unimacro/enx_inifiles/natspeak_dialog.ini
- mode change 100644 => 100755 Unimacro/enx_spokenforms.ini
- mode change 100644 => 100755 Unimacro/firefox_browsing.pyc
- mode change 100644 => 100755 Unimacro/grammar.bin
- mode change 100644 => 100755 Unimacro/inivars.py
- mode change 100644 => 100755 Unimacro/inivars.pyc
- mode change 100644 => 100755 Unimacro/messagefunctions.py
- mode change 100644 => 100755 Unimacro/messagefunctions.pyc
- mode change 100644 => 100755 Unimacro/monitorfunctions.py
- mode change 100644 => 100755 Unimacro/monitorfunctions.pyc
- mode change 100644 => 100755 Unimacro/namelist.pyc
- mode change 100644 => 100755 Unimacro/natlinkutilsbj.py
- mode change 100644 => 100755 Unimacro/natlinkutilsbj.pyc
- mode change 100644 => 100755 Unimacro/natlinkutilsqh.py
- mode change 100644 => 100755 Unimacro/natlinkutilsqh.pyc
- mode change 100644 => 100755 Unimacro/natspeak_dialog.pyc
- mode change 100644 => 100755 Unimacro/scintillacon.pyc
- mode change 100644 => 100755 Unimacro/spokenforms.py
- mode change 100644 => 100755 Unimacro/spokenforms.pyc
- mode change 100644 => 100755 Unimacro/testDialogForDictationGrammar.py
- mode change 100644 => 100755 Unimacro/unimacro_tracing.py
- mode change 100644 => 100755 Unimacro/unimacro_wxpythondialogs.py
- mode change 100644 => 100755 Unimacro/utilsqh.py
- mode change 100644 => 100755 Unimacro/utilsqh.pyc
- mode change 100644 => 100755 Unimacro/windowinfo.py
- mode change 100644 => 100755 Unimacro/windowparameters.py
- mode change 100644 => 100755 Vocola/UNIX_shell.vch
- mode change 100644 => 100755 Vocola/Unimacro.vch
- mode change 100644 => 100755 Vocola/_vocola.vcl
- mode change 100644 => 100755 Vocola/chrome.vcl
- mode change 100644 => 100755 Vocola/cmd.vcl
- mode change 100644 => 100755 Vocola/excel.vcl
- mode change 100644 => 100755 Vocola/explorer.vcl
- mode change 100644 => 100755 Vocola/files.vch
- mode change 100644 => 100755 Vocola/firefox.vcl
- mode change 100644 => 100755 Vocola/folders.vch
- mode change 100644 => 100755 Vocola/foxitreader.vcl
- mode change 100644 => 100755 Vocola/git.vch
- mode change 100644 => 100755 Vocola/gvim.vcl
- mode change 100644 => 100755 Vocola/itunes.vcl
- mode change 100644 => 100755 Vocola/keys.vch
- mode change 100644 => 100755 Vocola/machines.vch
- mode change 100644 => 100755 Vocola/mintty.vcl
- mode change 100644 => 100755 Vocola/msdev.vcl
- mode change 100644 => 100755 Vocola/natspeak.vcl
- mode change 100644 => 100755 Vocola/notepad.vcl
- mode change 100644 => 100755 Vocola/ntvdm.vcl
- mode change 100644 => 100755 Vocola/ois.vcl
- mode change 100644 => 100755 Vocola/outlook.vcl
- mode change 100644 => 100755 Vocola/package_management.vch
- mode change 100644 => 100755 Vocola/pdb.vch
- mode change 100644 => 100755 Vocola/powershell.vcl
- mode change 100644 => 100755 Vocola/putty.vcl
- mode change 100644 => 100755 Vocola/putty@tanabarr-mobl.vcl
- mode change 100644 => 100755 Vocola/pycharm.vcl
- mode change 100644 => 100755 Vocola/screen.vch
- mode change 100644 => 100755 Vocola/sh.vcl
- mode change 100644 => 100755 Vocola/skype.vcl
- mode change 100644 => 100755 Vocola/spotify.vcl
- mode change 100644 => 100755 Vocola/string.vch
- mode change 100644 => 100755 Vocola/systemctl.vch
- mode change 100644 => 100755 Vocola/tvnviewer.vcl
- mode change 100644 => 100755 Vocola/utilities.vch
- mode change 100644 => 100755 Vocola/vim.vch
- mode change 100644 => 100755 Vocola/vim_plugins.vch
- mode change 100644 => 100755 Vocola/virtualbox.vcl
- mode change 100644 => 100755 Vocola/vlc.vcl
- mode change 100644 => 100755 Vocola/vpxclient.vcl
- mode change 100644 => 100755 Vocola/win32pad.vch
- mode change 100644 => 100755 Vocola/win32pad.vcl
- mode change 100644 => 100755 Vocola/win32pad_lines.vcl
- mode change 100644 => 100755 Vocola/window_switching.vch
- mode change 100644 => 100755 Vocola/winscp.vcl
- mode change 100644 => 100755 Vocola/winword.vcl
- mode change 100644 => 100755 Vocola/wlmail.vcl
- mode change 100644 => 100755 Vocola/wordpad.vcl
+On branch master
+Changes not staged for commit:
+	modified:   NatLink/MacroSystem/_vocola_vcl.py
+	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
+	modified:   NatLink/MacroSystem/chrome_vcl.py
+	modified:   NatLink/MacroSystem/chrome_vcl.pyc
+	modified:   NatLink/MacroSystem/cmd_vcl.py
+	modified:   NatLink/MacroSystem/core/error_info_natlink_grammar.txt
+	modified:   NatLink/MacroSystem/excel_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.py
+	modified:   NatLink/MacroSystem/firefox_vcl.py
+	modified:   NatLink/MacroSystem/foxitreader_vcl.py
+	modified:   NatLink/MacroSystem/gvim_vcl.py
+	modified:   NatLink/MacroSystem/itunes_vcl.py
+	modified:   NatLink/MacroSystem/mintty_vcl.py
+	modified:   NatLink/MacroSystem/msdev_vcl.py
+	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
+	modified:   NatLink/MacroSystem/notepad_vcl.py
+	modified:   NatLink/MacroSystem/ntvdm_vcl.py
+	modified:   NatLink/MacroSystem/ois_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.py
+	modified:   NatLink/MacroSystem/powershell_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.pyc
+	modified:   NatLink/MacroSystem/pycharm_vcl.py
+	modified:   NatLink/MacroSystem/sh_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.pyc
+	modified:   NatLink/MacroSystem/spotify_vcl.py
+	deleted:    NatLink/MacroSystem/tvnviewer_vcl.pyc
+	modified:   NatLink/MacroSystem/virtualbox_vcl.py
+	modified:   NatLink/MacroSystem/vlc_vcl.py
+	modified:   NatLink/MacroSystem/vpxclient_vcl.py
+	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
+	modified:   NatLink/MacroSystem/win32pad_vcl.py
+	modified:   NatLink/MacroSystem/winscp_vcl.py
+	modified:   NatLink/MacroSystem/winword_vcl.py
+	modified:   NatLink/MacroSystem/wlmail_vcl.py
+	modified:   NatLink/MacroSystem/wordpad_vcl.py
+	modified:   Unimacro/enx_inifiles/_folders.ini
+	modified:   Unimacro/grammar.bin
+	modified:   Vocola/UNIX_shell.vch
+	modified:   Vocola/_vocola.vcl
+	modified:   Vocola/chrome.vcl
+	modified:   Vocola/git.vch
+	deleted:    Vocola/machines.vch
+	modified:   Vocola/outlook.vcl
+	modified:   Vocola/pdb.vch
+	modified:   Vocola/pycharm.vcl
+	modified:   Vocola/vim.vch
+	modified:   Vocola/window_switching.vch
+
+Untracked files:
+	NatLink/MacroSystem/cmd_vcl.pyc
+	NatLink/MacroSystem/explorer_vcl.pyc
+	NatLink/MacroSystem/gvim_vcl.pyc
+	NatLink/MacroSystem/outlook_vcl.pyc
+	NatLink/MacroSystem/pycharm_vcl.pyc
+	NatLink/MacroSystem/spotify_vcl.pyc
+	NatLink/MacroSystem/win32pad_lines_vcl.pyc
+	NatLink/MacroSystem/win32pad_vcl.pyc
+	NatLink/Vocola/extensions/_.swk
+	NatLink/Vocola/extensions/_.swl
+	NatLink/Vocola/extensions/_.swm
+	NatLink/Vocola/extensions/_.swn
+	Unimacro/enx_inifiles/._brackets.ini.swp
+	Vocola/.UNIX_shell.vch.swp
+	Vocola/.chrome.vcl.swp
+	Vocola/service_control.vch
+
+no changes added to commit
 git push -v --mirror origin
 Pushing to git@github.com:whIzz2000/nl-win8.git
 ssh: connect to host github.com port 22: Connection timed out
