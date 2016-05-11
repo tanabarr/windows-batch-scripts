@@ -239,3 +239,221 @@ cd /media/sf_win_scripts
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   _old_selenium/.idea/misc.xml
+	new file:   _old_selenium/.idea/modules.xml
+	new file:   _old_selenium/.idea/selenium.iml
+	new file:   _old_selenium/.idea/vcs.xml
+	new file:   _old_selenium/.idea/workspace.xml
+	new file:   _old_selenium/chromedriver.exe
+	new file:   _old_selenium/debug.log
+	new file:   _old_selenium/lhc_ui_configure.py
+	new file:   _old_selenium/testconnect_existing.py
+	modified:   git_auto_push.log
+	modified:   mount chroma.bat
+	new file:   start selenium.bat
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 407b2b0] auto update
+ Committer: root <root@imldev.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 12 files changed, 614 insertions(+), 1078 deletions(-)
+ create mode 100644 _old_selenium/.idea/misc.xml
+ create mode 100644 _old_selenium/.idea/modules.xml
+ create mode 100644 _old_selenium/.idea/selenium.iml
+ create mode 100644 _old_selenium/.idea/vcs.xml
+ create mode 100644 _old_selenium/.idea/workspace.xml
+ create mode 100644 _old_selenium/chromedriver.exe
+ create mode 100644 _old_selenium/debug.log
+ create mode 100644 _old_selenium/lhc_ui_configure.py
+ create mode 100644 _old_selenium/testconnect_existing.py
+ rewrite git_auto_push.log (87%)
+ create mode 100644 start selenium.bat
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/Windows-batch-scripts.git
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (fetch)
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (push)
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   cluster_cfg_integration_localhost_chris.json
+	new file:   cluster_cfg_integration_scratch.json
+	new file:   cluster_cfg_integration_scratch_bak.json
+	new file:   efs_cluster_cfg_integration_localmgr.json
+	new file:   fab/clear-iml-chris.sh
+	modified:   fab/fabfile.py
+	modified:   getbuild_unpack.sh
+	modified:   install_fence_apc.sh
+	new file:   simulator_cfg_with_pdus.json
+	new file:   ssi_cluster_cfg_integration56.json
+	new file:   ssi_cluster_cfg_integration_localmgr_ha78_el7_final.json
+
+git commit -m auto update
+[master 8d7a49e] auto update
+ Committer: root <root@imldev.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 11 files changed, 1902 insertions(+), 28 deletions(-)
+ create mode 100755 cluster_cfg_integration_localhost_chris.json
+ create mode 100755 cluster_cfg_integration_scratch.json
+ create mode 100755 cluster_cfg_integration_scratch_bak.json
+ create mode 100755 efs_cluster_cfg_integration_localmgr.json
+ create mode 100755 fab/clear-iml-chris.sh
+ rewrite install_fence_apc.sh (62%)
+ create mode 100755 simulator_cfg_with_pdus.json
+ create mode 100755 ssi_cluster_cfg_integration56.json
+ create mode 100755 ssi_cluster_cfg_integration_localmgr_ha78_el7_final.json
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+
+
+Wed May 11 16:00:01 BST 2016
+
+cd /media/sf_NatLink
+origin	git@github.com:whIzz2000/nl-win8.git (fetch)
+origin	git@github.com:whIzz2000/nl-win8.git (push)
+git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   NatLink/MacroSystem/_vocola_vcl.py
+	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
+	modified:   NatLink/MacroSystem/chrome_vcl.py
+	modified:   NatLink/MacroSystem/chrome_vcl.pyc
+	modified:   NatLink/MacroSystem/cmd_vcl.py
+	new file:   NatLink/MacroSystem/cmd_vcl.pyc
+	modified:   NatLink/MacroSystem/core/error_info_natlink_grammar.txt
+	modified:   NatLink/MacroSystem/excel_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.py
+	new file:   NatLink/MacroSystem/explorer_vcl.pyc
+	modified:   NatLink/MacroSystem/firefox_vcl.py
+	modified:   NatLink/MacroSystem/foxitreader_vcl.py
+	modified:   NatLink/MacroSystem/gvim_vcl.py
+	new file:   NatLink/MacroSystem/gvim_vcl.pyc
+	modified:   NatLink/MacroSystem/itunes_vcl.py
+	modified:   NatLink/MacroSystem/mintty_vcl.py
+	modified:   NatLink/MacroSystem/msdev_vcl.py
+	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
+	modified:   NatLink/MacroSystem/notepad_vcl.py
+	modified:   NatLink/MacroSystem/ntvdm_vcl.py
+	modified:   NatLink/MacroSystem/ois_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.py
+	new file:   NatLink/MacroSystem/outlook_vcl.pyc
+	modified:   NatLink/MacroSystem/powershell_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.pyc
+	modified:   NatLink/MacroSystem/pycharm_vcl.py
+	new file:   NatLink/MacroSystem/pycharm_vcl.pyc
+	modified:   NatLink/MacroSystem/sh_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.pyc
+	modified:   NatLink/MacroSystem/spotify_vcl.py
+	new file:   NatLink/MacroSystem/spotify_vcl.pyc
+	deleted:    NatLink/MacroSystem/tvnviewer_vcl.pyc
+	modified:   NatLink/MacroSystem/virtualbox_vcl.py
+	modified:   NatLink/MacroSystem/vlc_vcl.py
+	modified:   NatLink/MacroSystem/vpxclient_vcl.py
+	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
+	new file:   NatLink/MacroSystem/win32pad_lines_vcl.pyc
+	modified:   NatLink/MacroSystem/win32pad_vcl.py
+	new file:   NatLink/MacroSystem/win32pad_vcl.pyc
+	modified:   NatLink/MacroSystem/winscp_vcl.py
+	modified:   NatLink/MacroSystem/winword_vcl.py
+	modified:   NatLink/MacroSystem/wlmail_vcl.py
+	modified:   NatLink/MacroSystem/wordpad_vcl.py
+	new file:   NatLink/Vocola/extensions/_.swk
+	new file:   NatLink/Vocola/extensions/_.swl
+	new file:   NatLink/Vocola/extensions/_.swm
+	new file:   NatLink/Vocola/extensions/_.swn
+	new file:   Unimacro/enx_inifiles/._brackets.ini.swp
+	new file:   Unimacro/enx_inifiles/._folders.ini.swp
+	modified:   Unimacro/enx_inifiles/_folders.ini
+	modified:   Unimacro/grammar.bin
+	modified:   Vocola/UNIX_shell.vch
+	modified:   Vocola/_vocola.vcl
+	modified:   Vocola/chrome.vcl
+	modified:   Vocola/git.vch
+	deleted:    Vocola/machines.vch
+	modified:   Vocola/outlook.vcl
+	modified:   Vocola/pdb.vch
+	modified:   Vocola/pycharm.vcl
+	new file:   Vocola/service_control.vch
+	modified:   Vocola/vim.vch
+	modified:   Vocola/window_switching.vch
+
+git commit -m auto update
+[master 33d12a7] auto update
+ 64 files changed, 7931 insertions(+), 9510 deletions(-)
+ create mode 100755 NatLink/MacroSystem/cmd_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/explorer_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/gvim_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/outlook_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/pycharm_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/spotify_vcl.pyc
+ delete mode 100755 NatLink/MacroSystem/tvnviewer_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/win32pad_lines_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/win32pad_vcl.pyc
+ create mode 100755 NatLink/Vocola/extensions/_.swk
+ create mode 100755 NatLink/Vocola/extensions/_.swl
+ create mode 100755 NatLink/Vocola/extensions/_.swm
+ create mode 100755 NatLink/Vocola/extensions/_.swn
+ create mode 100755 Unimacro/enx_inifiles/._brackets.ini.swp
+ create mode 100755 Unimacro/enx_inifiles/._folders.ini.swp
+ delete mode 100755 Vocola/machines.vch
+ create mode 100755 Vocola/service_control.vch
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/nl-win8.git
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_win_scripts
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
+git add .
