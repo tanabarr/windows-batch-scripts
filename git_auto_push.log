@@ -778,3 +778,72 @@ cd /media/sf_win_scripts
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 4fc2995] auto update
+ 1 file changed, 127 insertions(+)
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/Windows-batch-scripts.git
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (fetch)
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (push)
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+To git@github.intel.com:tanabarr/iml-dev-scripts.git
+ = [up to date]      master -> master
+ = [up to date]      origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+Everything up-to-date
+
+
+Thu May 12 14:37:12 BST 2016
+
+cd /media/sf_NatLink
+origin	git@github.com:whIzz2000/nl-win8.git (fetch)
+origin	git@github.com:whIzz2000/nl-win8.git (push)
+git add .
+git status
+On branch master
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/nl-win8.git
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_win_scripts
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
+git add .
