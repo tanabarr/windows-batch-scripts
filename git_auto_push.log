@@ -651,3 +651,130 @@ cd /media/sf_win_scripts
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 7eb6e32] auto update
+ 1 file changed, 124 insertions(+)
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/Windows-batch-scripts.git
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (fetch)
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (push)
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+To git@github.intel.com:tanabarr/iml-dev-scripts.git
+ = [up to date]      master -> master
+ = [up to date]      origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+Everything up-to-date
+
+
+Thu May 12 12:00:01 BST 2016
+
+cd /media/sf_NatLink
+origin	git@github.com:whIzz2000/nl-win8.git (fetch)
+origin	git@github.com:whIzz2000/nl-win8.git (push)
+git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   NatLink/MacroSystem/_vocola_vcl.py
+	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
+	modified:   NatLink/MacroSystem/chrome_vcl.py
+	modified:   NatLink/MacroSystem/chrome_vcl.pyc
+	modified:   NatLink/MacroSystem/cmd_vcl.py
+	modified:   NatLink/MacroSystem/cmd_vcl.pyc
+	modified:   NatLink/MacroSystem/excel_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.pyc
+	modified:   NatLink/MacroSystem/firefox_vcl.py
+	modified:   NatLink/MacroSystem/firefox_vcl.pyc
+	modified:   NatLink/MacroSystem/foxitreader_vcl.py
+	modified:   NatLink/MacroSystem/gvim_vcl.py
+	modified:   NatLink/MacroSystem/gvim_vcl.pyc
+	modified:   NatLink/MacroSystem/itunes_vcl.py
+	modified:   NatLink/MacroSystem/mintty_vcl.py
+	modified:   NatLink/MacroSystem/msdev_vcl.py
+	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
+	modified:   NatLink/MacroSystem/notepad_vcl.py
+	modified:   NatLink/MacroSystem/ntvdm_vcl.py
+	modified:   NatLink/MacroSystem/ois_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.pyc
+	modified:   NatLink/MacroSystem/powershell_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.pyc
+	modified:   NatLink/MacroSystem/pycharm_vcl.py
+	modified:   NatLink/MacroSystem/pycharm_vcl.pyc
+	modified:   NatLink/MacroSystem/sh_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.pyc
+	modified:   NatLink/MacroSystem/spotify_vcl.py
+	modified:   NatLink/MacroSystem/spotify_vcl.pyc
+	modified:   NatLink/MacroSystem/virtualbox_vcl.py
+	modified:   NatLink/MacroSystem/vlc_vcl.py
+	deleted:    NatLink/MacroSystem/vlc_vcl.pyc
+	modified:   NatLink/MacroSystem/vpxclient_vcl.py
+	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
+	deleted:    NatLink/MacroSystem/win32pad_lines_vcl.pyc
+	modified:   NatLink/MacroSystem/win32pad_vcl.py
+	deleted:    NatLink/MacroSystem/win32pad_vcl.pyc
+	modified:   NatLink/MacroSystem/winscp_vcl.py
+	modified:   NatLink/MacroSystem/winword_vcl.py
+	modified:   NatLink/MacroSystem/wlmail_vcl.py
+	modified:   NatLink/MacroSystem/wordpad_vcl.py
+	deleted:    Unimacro/enx_inifiles/._folders.ini.swp
+	deleted:    Vocola/.UNIX_shell.vch.swp
+	deleted:    Vocola/._vocola.vcl.swp
+	modified:   Vocola/chrome.vcl
+
+git commit -m auto update
+[master f55efae] auto update
+ 49 files changed, 51 insertions(+), 51 deletions(-)
+ delete mode 100755 NatLink/MacroSystem/vlc_vcl.pyc
+ delete mode 100755 NatLink/MacroSystem/win32pad_lines_vcl.pyc
+ delete mode 100755 NatLink/MacroSystem/win32pad_vcl.pyc
+ delete mode 100755 Unimacro/enx_inifiles/._folders.ini.swp
+ delete mode 100755 Vocola/.UNIX_shell.vch.swp
+ delete mode 100755 Vocola/._vocola.vcl.swp
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/nl-win8.git
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_win_scripts
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
+git add .
