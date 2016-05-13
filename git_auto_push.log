@@ -1051,3 +1051,163 @@ cd /media/sf_win_scripts
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
 origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 914cb2c] auto update
+ 1 file changed, 122 insertions(+)
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/Windows-batch-scripts.git
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (fetch)
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (push)
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+ssh: Could not resolve hostname github.intel.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
+Fri May 13 12:00:01 BST 2016
+
+cd /media/sf_NatLink
+origin	git@github.com:whIzz2000/nl-win8.git (fetch)
+origin	git@github.com:whIzz2000/nl-win8.git (push)
+git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   NatLink/MacroSystem/_vocola_vcl.py
+	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
+	modified:   NatLink/MacroSystem/chrome_vcl.py
+	modified:   NatLink/MacroSystem/chrome_vcl.pyc
+	modified:   NatLink/MacroSystem/cmd_vcl.py
+	modified:   NatLink/MacroSystem/core/error_info_natlink_grammar.txt
+	modified:   NatLink/MacroSystem/excel_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.py
+	new file:   NatLink/MacroSystem/explorer_vcl.pyc
+	modified:   NatLink/MacroSystem/firefox_vcl.py
+	modified:   NatLink/MacroSystem/foxitreader_vcl.py
+	modified:   NatLink/MacroSystem/gvim_vcl.py
+	modified:   NatLink/MacroSystem/itunes_vcl.py
+	modified:   NatLink/MacroSystem/mintty_vcl.py
+	modified:   NatLink/MacroSystem/msdev_vcl.py
+	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
+	modified:   NatLink/MacroSystem/notepad_vcl.py
+	modified:   NatLink/MacroSystem/ntvdm_vcl.py
+	modified:   NatLink/MacroSystem/ois_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.py
+	modified:   NatLink/MacroSystem/powershell_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.py
+	new file:   NatLink/MacroSystem/putty_vcl.pyc
+	modified:   NatLink/MacroSystem/pycharm_vcl.py
+	new file:   NatLink/MacroSystem/pycharm_vcl.pyc
+	modified:   NatLink/MacroSystem/sh_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.pyc
+	modified:   NatLink/MacroSystem/spotify_vcl.py
+	modified:   NatLink/MacroSystem/virtualbox_vcl.py
+	modified:   NatLink/MacroSystem/vlc_vcl.py
+	modified:   NatLink/MacroSystem/vpxclient_vcl.py
+	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
+	new file:   NatLink/MacroSystem/win32pad_lines_vcl.pyc
+	modified:   NatLink/MacroSystem/win32pad_vcl.py
+	new file:   NatLink/MacroSystem/win32pad_vcl.pyc
+	modified:   NatLink/MacroSystem/winscp_vcl.py
+	modified:   NatLink/MacroSystem/winword_vcl.py
+	modified:   NatLink/MacroSystem/wlmail_vcl.py
+	modified:   NatLink/MacroSystem/wordpad_vcl.py
+
+git commit -m auto update
+[master 527a6a7] auto update
+ 40 files changed, 171 insertions(+), 204 deletions(-)
+ create mode 100755 NatLink/MacroSystem/explorer_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/putty_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/pycharm_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/win32pad_lines_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/win32pad_vcl.pyc
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/nl-win8.git
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_win_scripts
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (fetch)
+origin	git@github.com:whIzz2000/Windows-batch-scripts.git (push)
+git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master f320647] auto update
+ 1 file changed, 117 insertions(+)
+git push -v --mirror origin
+Pushing to git@github.com:whIzz2000/Windows-batch-scripts.git
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (fetch)
+origin	git@github.intel.com:tanabarr/iml-dev-scripts.git (push)
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+To git@github.intel.com:tanabarr/iml-dev-scripts.git
+ = [up to date]      master -> master
+ = [up to date]      origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+Everything up-to-date
