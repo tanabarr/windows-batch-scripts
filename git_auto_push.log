@@ -1211,3 +1211,28 @@ To git@github.intel.com:tanabarr/iml-dev-scripts.git
  = [up to date]      origin/master -> origin/master
 updating local tracking ref 'refs/remotes/origin/master'
 Everything up-to-date
+
+
+Fri May 13 16:00:01 BST 2016
+
+cd /media/sf_NatLink
+git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   NatLink/MacroSystem/notepad_vcl.pyc
+	new file:   NatLink/MacroSystem/outlook_vcl.pyc
+
+git commit -m auto update
+[master e424da2] auto update
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100755 NatLink/MacroSystem/notepad_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/outlook_vcl.pyc
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+fatal: unable to access 'https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git/': Couldn't resolve proxy 'proxy-chain.intel.com'
+
+cd /media/sf_win_scripts
+git add .
