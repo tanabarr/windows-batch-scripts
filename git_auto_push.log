@@ -13250,3 +13250,172 @@ Everything up-to-date
 
 cd /media/sf_win_scripts
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 51d8eaa] auto update
+ 1 file changed, 169 insertions(+)
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+POST git-receive-pack (682 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+   5bb2b0e..51d8eaa  master -> master
+   a41e0a4..5bb2b0e  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+To git@github.intel.com:tanabarr/iml-dev-scripts.git
+ = [up to date]      master -> master
+ = [up to date]      origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+Everything up-to-date
+
+
+Sun Jul 10 00:00:01 BST 2016
+
+cd /media/sf_NatLink
+git add .
+fatal: Unable to write new index file
+git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   NatLink/MacroSystem/_vocola_vcl.py
+	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
+	modified:   NatLink/MacroSystem/chrome_vcl.py
+	modified:   NatLink/MacroSystem/chrome_vcl.pyc
+	modified:   NatLink/MacroSystem/cmd_vcl.py
+	modified:   NatLink/MacroSystem/excel_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.pyc
+	modified:   NatLink/MacroSystem/firefox_vcl.py
+	deleted:    NatLink/MacroSystem/firefox_vcl.pyc
+	modified:   NatLink/MacroSystem/foxitreader_vcl.py
+	modified:   NatLink/MacroSystem/gvim_vcl.py
+	deleted:    NatLink/MacroSystem/gvim_vcl.pyc
+	modified:   NatLink/MacroSystem/itunes_vcl.py
+	modified:   NatLink/MacroSystem/mintty_vcl.py
+	modified:   NatLink/MacroSystem/msdev_vcl.py
+	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
+	modified:   NatLink/MacroSystem/notepad_vcl.py
+	deleted:    NatLink/MacroSystem/notepad_vcl.pyc
+	modified:   NatLink/MacroSystem/ntvdm_vcl.py
+	modified:   NatLink/MacroSystem/ois_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.pyc
+	modified:   NatLink/MacroSystem/powershell_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.pyc
+	modified:   NatLink/MacroSystem/pycharm_vcl.py
+	modified:   NatLink/MacroSystem/pycharm_vcl.pyc
+	modified:   NatLink/MacroSystem/sh_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.pyc
+	modified:   NatLink/MacroSystem/spotify_vcl.py
+	deleted:    NatLink/MacroSystem/spotify_vcl.pyc
+	modified:   NatLink/MacroSystem/virtualbox_vcl.py
+	modified:   NatLink/MacroSystem/vlc_vcl.py
+	deleted:    NatLink/MacroSystem/vlc_vcl.pyc
+	modified:   NatLink/MacroSystem/vpxclient_vcl.py
+	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
+	deleted:    NatLink/MacroSystem/win32pad_lines_vcl.pyc
+	modified:   NatLink/MacroSystem/win32pad_vcl.py
+	deleted:    NatLink/MacroSystem/win32pad_vcl.pyc
+	modified:   NatLink/MacroSystem/winscp_vcl.py
+	modified:   NatLink/MacroSystem/winword_vcl.py
+	modified:   NatLink/MacroSystem/wlmail_vcl.py
+	modified:   NatLink/MacroSystem/wordpad_vcl.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	NatLink/MacroSystem/cmd_vcl.pyc
+
+no changes added to commit (use "git add" and/or "git commit -a")
+git commit -m auto update
+On branch master
+Changes not staged for commit:
+	modified:   NatLink/MacroSystem/_vocola_vcl.py
+	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
+	modified:   NatLink/MacroSystem/chrome_vcl.py
+	modified:   NatLink/MacroSystem/chrome_vcl.pyc
+	modified:   NatLink/MacroSystem/cmd_vcl.py
+	modified:   NatLink/MacroSystem/excel_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.py
+	modified:   NatLink/MacroSystem/explorer_vcl.pyc
+	modified:   NatLink/MacroSystem/firefox_vcl.py
+	deleted:    NatLink/MacroSystem/firefox_vcl.pyc
+	modified:   NatLink/MacroSystem/foxitreader_vcl.py
+	modified:   NatLink/MacroSystem/gvim_vcl.py
+	deleted:    NatLink/MacroSystem/gvim_vcl.pyc
+	modified:   NatLink/MacroSystem/itunes_vcl.py
+	modified:   NatLink/MacroSystem/mintty_vcl.py
+	modified:   NatLink/MacroSystem/msdev_vcl.py
+	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
+	modified:   NatLink/MacroSystem/notepad_vcl.py
+	deleted:    NatLink/MacroSystem/notepad_vcl.pyc
+	modified:   NatLink/MacroSystem/ntvdm_vcl.py
+	modified:   NatLink/MacroSystem/ois_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.py
+	modified:   NatLink/MacroSystem/outlook_vcl.pyc
+	modified:   NatLink/MacroSystem/powershell_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.py
+	modified:   NatLink/MacroSystem/putty_vcl.pyc
+	modified:   NatLink/MacroSystem/pycharm_vcl.py
+	modified:   NatLink/MacroSystem/pycharm_vcl.pyc
+	modified:   NatLink/MacroSystem/sh_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.py
+	modified:   NatLink/MacroSystem/skype_vcl.pyc
+	modified:   NatLink/MacroSystem/spotify_vcl.py
+	deleted:    NatLink/MacroSystem/spotify_vcl.pyc
+	modified:   NatLink/MacroSystem/virtualbox_vcl.py
+	modified:   NatLink/MacroSystem/vlc_vcl.py
+	deleted:    NatLink/MacroSystem/vlc_vcl.pyc
+	modified:   NatLink/MacroSystem/vpxclient_vcl.py
+	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
+	deleted:    NatLink/MacroSystem/win32pad_lines_vcl.pyc
+	modified:   NatLink/MacroSystem/win32pad_vcl.py
+	deleted:    NatLink/MacroSystem/win32pad_vcl.pyc
+	modified:   NatLink/MacroSystem/winscp_vcl.py
+	modified:   NatLink/MacroSystem/winword_vcl.py
+	modified:   NatLink/MacroSystem/wlmail_vcl.py
+	modified:   NatLink/MacroSystem/wordpad_vcl.py
+
+Untracked files:
+	NatLink/MacroSystem/cmd_vcl.pyc
+
+no changes added to commit
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+To https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+ = [up to date]      master -> master
+ = [up to date]      origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+Everything up-to-date
+
+cd /media/sf_win_scripts
+git add .
