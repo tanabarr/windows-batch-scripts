@@ -14681,3 +14681,81 @@ updating local tracking ref 'refs/remotes/origin/master'
 
 cd /media/sf_win_scripts
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 8ea9c54] auto update
+ 1 file changed, 114 insertions(+)
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+POST git-receive-pack (820 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+   d7aea51..8ea9c54  master -> master
+   468ebc9..d7aea51  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   ssi_cluster_cfg_integration_localmgr_ha58_el7.json
+	new file:   ssi_cluster_cfg_integration_localmgr_ha58_el7_mixed_backfs.json
+
+git commit -m auto update
+[master 9c47ec2] auto update
+ 2 files changed, 274 insertions(+), 19 deletions(-)
+ create mode 100755 ssi_cluster_cfg_integration_localmgr_ha58_el7_mixed_backfs.json
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+To git@github.intel.com:tanabarr/iml-dev-scripts.git
+ = [up to date]      origin/master -> origin/master
+   7270dd1..9c47ec2  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+
+Wed Jul 13 12:00:01 BST 2016
+
+cd /media/sf_NatLink
+git add .
+fatal: Unable to write new index file
+git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	NatLink/MacroSystem/explorer_vcl.pyc
+	NatLink/MacroSystem/notepad_vcl.pyc
+
+nothing added to commit but untracked files present (use "git add" to track)
+git commit -m auto update
+On branch master
+Untracked files:
+	NatLink/MacroSystem/explorer_vcl.pyc
+	NatLink/MacroSystem/notepad_vcl.pyc
+
+nothing added to commit but untracked files present
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+POST git-receive-pack (199 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+ = [up to date]      master -> master
+   f0d5e8f..434ef13  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_win_scripts
+git add .
