@@ -28055,3 +28055,77 @@ updating local tracking ref 'refs/remotes/origin/master'
 
 cd /media/sf_win_scripts
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 4b19777] auto update
+ 1 file changed, 77 insertions(+)
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+POST git-receive-pack (820 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+   72fc83d..4b19777  master -> master
+   b347fd7..72fc83d  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   fab/.iml-test-clean-disks.sh.swp
+	modified:   fab/iml-test-clean-disks.sh
+
+git commit -m auto update
+[master 445b8d2] auto update
+ 2 files changed, 11 insertions(+), 3 deletions(-)
+ create mode 100755 fab/.iml-test-clean-disks.sh.swp
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+To git@github.intel.com:tanabarr/iml-dev-scripts.git
+   971dc40..445b8d2  master -> master
+   167205d..971dc40  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+
+Wed Sep 7 20:00:01 BST 2016
+
+cd /media/sf_NatLink
+git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   NatLink/MacroSystem/foxitreader_vcl.pyc
+	new file:   NatLink/MacroSystem/winword_vcl.pyc
+
+git commit -m auto update
+[master b167b23] auto update
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100755 NatLink/MacroSystem/foxitreader_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/winword_vcl.pyc
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+POST git-receive-pack (8564 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+ = [up to date]      origin/master -> origin/master
+   b17f74c..b167b23  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_win_scripts
+git add .
