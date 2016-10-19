@@ -35422,3 +35422,82 @@ updating local tracking ref 'refs/remotes/origin/master'
 
 cd /media/sf_win_scripts
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 623b575] auto update
+ 1 file changed, 112 insertions(+)
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+POST git-receive-pack (845 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+   62b2245..623b575  master -> master
+   0e3adc6..62b2245  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   fab/fabfile.py
+	modified:   getbuild_unpack.sh
+
+git commit -m auto update
+[master 3a55f62] auto update
+ 2 files changed, 4 insertions(+), 6 deletions(-)
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+To git@github.intel.com:tanabarr/iml-dev-scripts.git
+   5476e12..3a55f62  master -> master
+   eb0725b..5476e12  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+
+Wed Oct 19 16:00:02 BST 2016
+
+cd /media/sf_NatLink
+git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   NatLink/MacroSystem/gvim_vcl.pyc
+	new file:   NatLink/MacroSystem/spotify_vcl.pyc
+	new file:   NatLink/MacroSystem/win32pad_lines_vcl.pyc
+	new file:   NatLink/MacroSystem/win32pad_vcl.pyc
+	new file:   Vocola/.pycharm.vcl.swp
+
+git commit -m auto update
+[master 5efae28] auto update
+ 5 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100755 NatLink/MacroSystem/gvim_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/spotify_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/win32pad_lines_vcl.pyc
+ create mode 100755 NatLink/MacroSystem/win32pad_vcl.pyc
+ create mode 100755 Vocola/.pycharm.vcl.swp
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+POST git-receive-pack (47480 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+   ed5cbd3..5efae28  master -> master
+   4e041f3..ed5cbd3  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_win_scripts
+git add .
