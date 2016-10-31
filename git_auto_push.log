@@ -38809,3 +38809,66 @@ updating local tracking ref 'refs/remotes/origin/master'
 
 cd /media/sf_win_scripts
 git add .
+git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_auto_push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_auto_push.log
+
+git commit -m auto update
+[master 439f083] auto update
+ 1 file changed, 74 insertions(+)
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+POST git-receive-pack (779 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/windows-batch-scripts.git
+   4552c5d..439f083  master -> master
+   c6d0542..4552c5d  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_TANABARR/Documents/hpdd/iml/scripts/iml-dev-scripts
+git add .
+git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to git@github.intel.com:tanabarr/iml-dev-scripts.git
+To git@github.intel.com:tanabarr/iml-dev-scripts.git
+ = [up to date]      master -> master
+ = [up to date]      origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+Everything up-to-date
+
+
+Mon Oct 31 20:00:01 GMT 2016
+
+cd /media/sf_NatLink
+git add .
+git status
+On branch master
+nothing to commit, working directory clean
+git commit -m auto update
+On branch master
+nothing to commit, working directory clean
+git push -v --mirror origin
+Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+POST git-receive-pack (199 bytes)
+To https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
+ = [up to date]      master -> master
+   9c6dc52..ee0021d  origin/master -> origin/master
+updating local tracking ref 'refs/remotes/origin/master'
+
+cd /media/sf_win_scripts
+git add .
