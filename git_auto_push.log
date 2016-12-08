@@ -1,76 +1,24 @@
 
 
 
-Thu Dec 8 12:18:34 GMT 2016
+Thu Dec 8 12:20:06 GMT 2016
 
 cd /media/sf_NatLink
 On branch master
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
-	new file:   ..gitignore.un~
+	modified:   ..gitignore.un~
 	modified:   .gitignore
-	new file:   .gitignore~
-	modified:   NatLink/MacroSystem/_vocola_vcl.py
-	modified:   NatLink/MacroSystem/_vocola_vcl.pyc
-	modified:   NatLink/MacroSystem/chrome_vcl.py
-	modified:   NatLink/MacroSystem/chrome_vcl.pyc
-	modified:   NatLink/MacroSystem/cmd_vcl.py
-	modified:   NatLink/MacroSystem/cmd_vcl.pyc
-	modified:   NatLink/MacroSystem/excel_vcl.py
-	modified:   NatLink/MacroSystem/explorer_vcl.py
-	modified:   NatLink/MacroSystem/explorer_vcl.pyc
-	modified:   NatLink/MacroSystem/firefox_vcl.py
-	modified:   NatLink/MacroSystem/foxitreader_vcl.py
-	modified:   NatLink/MacroSystem/gvim_vcl.py
-	modified:   NatLink/MacroSystem/gvim_vcl.pyc
-	modified:   NatLink/MacroSystem/itunes_vcl.py
-	modified:   NatLink/MacroSystem/mintty_vcl.py
-	modified:   NatLink/MacroSystem/msdev_vcl.py
-	modified:   NatLink/MacroSystem/natspeak_vcl.pyc
-	modified:   NatLink/MacroSystem/notepad_vcl.py
-	modified:   NatLink/MacroSystem/ntvdm_vcl.py
-	modified:   NatLink/MacroSystem/ois_vcl.py
-	modified:   NatLink/MacroSystem/outlook_vcl.py
-	modified:   NatLink/MacroSystem/outlook_vcl.pyc
-	modified:   NatLink/MacroSystem/powershell_vcl.py
-	modified:   NatLink/MacroSystem/putty_vcl.py
-	modified:   NatLink/MacroSystem/putty_vcl.pyc
-	modified:   NatLink/MacroSystem/pycharm_vcl.py
-	modified:   NatLink/MacroSystem/pycharm_vcl.pyc
-	modified:   NatLink/MacroSystem/sh_vcl.py
-	modified:   NatLink/MacroSystem/skype_vcl.py
-	modified:   NatLink/MacroSystem/skype_vcl.pyc
-	modified:   NatLink/MacroSystem/spotify_vcl.py
-	new file:   NatLink/MacroSystem/spotify_vcl.pyc
-	modified:   NatLink/MacroSystem/virtualbox_vcl.py
-	modified:   NatLink/MacroSystem/vlc_vcl.py
-	modified:   NatLink/MacroSystem/vpxclient_vcl.py
-	modified:   NatLink/MacroSystem/win32pad_lines_vcl.py
-	deleted:    NatLink/MacroSystem/win32pad_lines_vcl.pyc
-	modified:   NatLink/MacroSystem/win32pad_vcl.py
-	deleted:    NatLink/MacroSystem/win32pad_vcl.pyc
-	modified:   NatLink/MacroSystem/winscp_vcl.py
-	modified:   NatLink/MacroSystem/winword_vcl.py
-	modified:   NatLink/MacroSystem/wlmail_vcl.py
-	modified:   NatLink/MacroSystem/wordpad_vcl.py
-	modified:   Unimacro/enx_inifiles/_folders.ini
-	modified:   Vocola/UNIX_shell.vch
-	modified:   Vocola/chrome.vcl
-	modified:   Vocola/screen.vch
+	modified:   .gitignore~
 
-[master 832df2d] auto update
- 50 files changed, 4009 insertions(+), 1837 deletions(-)
- create mode 100755 ..gitignore.un~
- create mode 100755 .gitignore~
- create mode 100755 NatLink/MacroSystem/spotify_vcl.pyc
- delete mode 100755 NatLink/MacroSystem/win32pad_lines_vcl.pyc
- delete mode 100755 NatLink/MacroSystem/win32pad_vcl.pyc
+[master 2c9aa9b] auto update
+ 3 files changed, 6 insertions(+), 3 deletions(-)
 Pushing to https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
-POST git-receive-pack (135211 bytes)
+POST git-receive-pack (963 bytes)
 To https://whIzz2000:cideric306@github.com/whIzz2000/nl-win8.git
-   88a8034..832df2d  master -> master
-   63ec08d..88a8034  origin/master -> origin/master
+   832df2d..2c9aa9b  master -> master
+   88a8034..832df2d  origin/master -> origin/master
 updating local tracking ref 'refs/remotes/origin/master'
 
 cd /media/sf_win_scripts
