@@ -5,7 +5,7 @@ vboxmanage.exe startvm "Centos71imlnode" --type headless
 
 umount h:
 choice /c yn /t 4 /d y >NUL		
-mount -o fileaccess=644 \\192.168.56.102\export h:
+mount -o fileaccess=777 \\192.168.56.102\export h:
 choice /c yn /t 4 /d y >NUL		
 
 @echo off
