@@ -10,7 +10,7 @@ choice /c yn /t 4 /d y >NUL
 
 :: saves VM
 cd "c:\Program Files\Oracle\VirtualBox"
-vboxmanage.exe controlvm "Centos71imlnode" savestate
+vboxmanage.exe controlvm "Centos7imldev" savestate
 choice /c yn /t 4 /d y >NUL		
 
 exit
