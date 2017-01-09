@@ -5,7 +5,7 @@ vboxmanage.exe startvm "Centos67imldev" --type headless
 
 umount g:
 choice /c yn /t 6 /d y >NUL		
-::mount -u:tanabarr -p:"Chanch0306!" \\192.168.56.102\home\share g:
+::mount -u:tanabarr -p:"..." \\192.168.56.102\home\share g:
 mount -o fileaccess=644 \\192.168.56.101\home\share g:
 choice /c yn /t 4 /d y >NUL		
 
