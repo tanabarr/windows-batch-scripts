@@ -17,7 +17,7 @@ choice /c yn /t 4 /d y >NUL
 ::start "" "C:\win scripts\first VM.bat"
 ::choice /c yn /t 2 /d y >NUL		
 
-::exit
+exit
 
 ::unrelated and should really be somewhere else! change UAC
 ::c:\Windows\System32\UserAccountControlSettings.exe
