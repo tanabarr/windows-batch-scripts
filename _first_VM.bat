@@ -1,4 +1,4 @@
-@echo off
+::@echo off
 cd "C:\win scripts" 
 start start_first_VM.bat
 choice /c yn /t 6 /d y >NUL		
